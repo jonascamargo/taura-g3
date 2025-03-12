@@ -10,7 +10,7 @@
                     <form class="form-search">
 
                         <fieldset class="text">
-                            <input type="text" placeholder="What are you looking for?" class="" name="text" tabindex="0" value="" aria-required="true" required="">
+                            <input type="text" placeholder="O que você está procurando?" class="" name="text" tabindex="0" value="" aria-required="true" required="">
                         </fieldset>
 
                         <button class="" type="submit">

@@ -11,7 +11,7 @@ include_once("_header.php");
                     <!-- Slide 1 -->
                     <div class="swiper-slide">
                         <div class="wrap-slider">
-                            <img src="images/slider/slider-gaming-1.jpg" data-src="images/slider/slider-gaming-1.jpg" alt="pickle-ball-slideshow" class="lazyload">
+                            <img src="uploads/slider/slider-gaming-1.jpg" data-src="uploads/slider/slider-gaming-1.jpg" alt="pickle-ball-slideshow" class="lazyload">
 
                             <div class="box-content type-2 type-3">
                                 <div class="content-slider">
@@ -27,7 +27,7 @@ include_once("_header.php");
                                     </div>
 
                                     <div class="fade-item fade-item-3 box-btn-slider">
-                                        <a href="shop-default-grid.html" class="tf-btn btn-fill btn-white">
+                                        <a href="./produtos" class="tf-btn btn-fill btn-white">
                                             <span class="text">Brinquedos</span>
                                             <i class="icon icon-arrowUpRight"></i>
                                         </a>
@@ -41,7 +41,7 @@ include_once("_header.php");
                     <!-- Slide 2 -->
                     <div class="swiper-slide">
                         <div class="wrap-slider">
-                            <img src="images/slider/slider-gaming-2.jpg" data-src="images/slider/slider-gaming-2.jpg" alt="pickle-ball-slideshow" class="lazyload">
+                            <img src="uploads/slider/slider-gaming-2.jpg" data-src="uploads/slider/slider-gaming-2.jpg" alt="pickle-ball-slideshow" class="lazyload">
 
                             <div class="box-content type-2 type-3">
                                 <div class="content-slider">
@@ -57,7 +57,7 @@ include_once("_header.php");
                                     </div>
 
                                     <div class="fade-item fade-item-3 box-btn-slider">
-                                        <a href="shop-default-grid.html" class="tf-btn btn-fill btn-white">
+                                        <a href="./produtos" class="tf-btn btn-fill btn-white">
                                             <span class="text">Material escolar</span>
                                             <i class="icon icon-arrowUpRight"></i>
                                         </a>
@@ -71,7 +71,7 @@ include_once("_header.php");
                     <!-- Slide 3 -->
                     <div class="swiper-slide">
                         <div class="wrap-slider">
-                            <img src="images/slider/slider-gaming-3.jpg" data-src="images/slider/slider-gaming-3.jpg" alt="pickle-ball-slideshow" class="lazyload">
+                            <img src="uploads/slider/slider-gaming-3.jpg" data-src="uploads/slider/slider-gaming-3.jpg" alt="pickle-ball-slideshow" class="lazyload">
 
                             <div class="box-content type-2 type-3">
                                 <div class="content-slider">
@@ -87,7 +87,7 @@ include_once("_header.php");
                                     </div>
 
                                     <div class="fade-item fade-item-3 box-btn-slider">
-                                        <a href="shop-default-grid.html" class="tf-btn btn-fill btn-white">
+                                        <a href="./produtos" class="tf-btn btn-fill btn-white">
                                             <span class="text">Cadeiras</span>
                                             <i class="icon icon-arrowUpRight"></i>
                                         </a>
@@ -124,7 +124,7 @@ include_once("_header.php");
                                     Accessories
                                 </p>
                                 <h3 class="title">
-                                    <a href="shop-default-grid.html" class="link text-white fw-bold font-5">
+                                    <a href="./produtos" class="link text-white fw-bold font-5">
                                         Ultimate Audio <br> Experience
                                     </a>
                                 </h3>
@@ -133,7 +133,7 @@ include_once("_header.php");
                                 </p>
                             </div>
                             <div class="box-btn">
-                                <a href="shop-default-grid.html" class="btn-line style-white has-icon">
+                                <a href="./produtos" class="btn-line style-white has-icon">
                                     Shop Now
                                     <i class="icon icon-arrowUpRight"></i>
                                 </a>
@@ -152,7 +152,7 @@ include_once("_header.php");
                                     Accessories
                                 </p>
                                 <h3 class="title">
-                                    <a href="shop-default-grid.html" class="link text-white fw-bold font-5">
+                                    <a href="./produtos" class="link text-white fw-bold font-5">
                                         Essential Style <br> Accessories
                                     </a>
                                 </h3>
@@ -161,7 +161,7 @@ include_once("_header.php");
                                 </p>
                             </div>
                             <div class="box-btn">
-                                <a href="shop-default-grid.html" class="btn-line style-white has-icon">
+                                <a href="./produtos" class="btn-line style-white has-icon">
                                     Shop Now
                                     <i class="icon icon-arrowUpRight"></i>
                                 </a>
@@ -180,7 +180,7 @@ include_once("_header.php");
                                     ROG GAMING MOUSE
                                 </p>
                                 <h1 class="title">
-                                    <a href="shop-default-grid.html" class="link text-white fw-bold font-5">
+                                    <a href="./produtos" class="link text-white fw-bold font-5">
                                         Precision at Your <br> Fingertips
                                     </a>
                                 </h1>
@@ -189,7 +189,7 @@ include_once("_header.php");
                                 </p>
                             </div>
                             <div class="box-btn">
-                                <a href="shop-default-grid.html" class="tf-btn btn-fill btn-white btn-md">
+                                <a href="./produtos" class="tf-btn btn-fill btn-white btn-md">
                                     <span class="text">Shop now</span>
                                     <i class="icon icon-arrowUpRight"></i>
                                 </a>
@@ -202,7 +202,7 @@ include_once("_header.php");
         </section>
         <!-- /Grid Collection -->
 
-        <!-- Best Seller -->
+        <!-- Novos produtos -->
         <section>
             <div class="container">
                 <div class="heading-section-4 wow fadeInUp">
@@ -211,31 +211,19 @@ include_once("_header.php");
 
                         <ul class="tab-product style-2 justify-content-sm-center mb-0" role="tablist">
                             <li class="nav-tab-item" role="presentation">
-                                <a href="#headphone" class="active " data-bs-toggle="tab">Headphone</a>
+                                <a href="#todos" class="active" data-bs-toggle="tab">Todos</a>
                             </li>
 
                             <li class="text-line d-none d-sm-block">/</li>
 
                             <li class="nav-tab-item" role="presentation">
-                                <a href="#mouse" data-bs-toggle="tab" class="">Escritório</a>
+                                <a href="#escritorio" data-bs-toggle="tab">Escritório</a>
                             </li>
 
                             <li class="text-line d-none d-sm-block">/</li>
 
                             <li class="nav-tab-item" role="presentation">
-                                <a href="#keyboard" data-bs-toggle="tab" class="">Papelaria</a>
-                            </li>
-
-                            <li class="text-line d-none d-sm-block">/</li>
-
-                            <li class="nav-tab-item" role="presentation">
-                                <a href="#mousepad" data-bs-toggle="tab" class="">Brinquedos</a>
-                            </li>
-
-                            <li class="text-line d-none d-sm-block">/</li>
-
-                            <li class="nav-tab-item" role="presentation">
-                                <a href="#cable" data-bs-toggle="tab" class="">Cadeiras</a>
+                                <a href="#material-escolar" data-bs-toggle="tab">Material escolar</a>
                             </li>
                         </ul>
                     </div>
@@ -245,7 +233,7 @@ include_once("_header.php");
 
                 <div class="flat-animate-tab">
                     <div class="tab-content">
-                        <div class="tab-pane active show" id="headphone" role="tabpanel">
+                        <div class="tab-pane active show" id="todos" role="tabpanel">
                             <div dir="ltr" class="swiper tf-sw-latest" data-preview="4" data-tablet="3" data-mobile="2" data-space-lg="30" data-space-md="30" data-space="15" data-pagination="1" data-pagination-md="1" data-pagination-lg="1">
                                 <div class="swiper-wrapper">
 
@@ -254,8 +242,8 @@ include_once("_header.php");
                                         <div class="card-product wow fadeInUp">
                                             <div class="card-product-wrapper aspect-ratio-0">
                                                 <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product" data-src="images/products/gaming/product-1.jpg" src="images/products/gaming/product-1.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover" data-src="images/products/gaming/product-1.jpg" src="images/products/gaming/product-1.jpg" alt="image-product">
+                                                    <img class="lazyload img-product" data-src="uploads/produtos/produto-1-thumb.png" src="uploads/produtos/produto-1-thumb.png" alt="image-product">
+                                                    <img class="lazyload img-hover" data-src="uploads/produtos/produto-1-thumb.png" src="uploads/produtos/produto-1-thumb.png" alt="image-product">
                                                 </a>
 
                                                 <div class="list-product-btn">
@@ -271,7 +259,7 @@ include_once("_header.php");
                                             </div>
 
                                             <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">Nome do produto</a>
+                                                <a href="product-detail.html" class="title link">Giz de cera</a>
                                             </div>
                                         </div>
                                     </div>
@@ -281,54 +269,51 @@ include_once("_header.php");
                                         <div class="card-product wow fadeInUp">
                                             <div class="card-product-wrapper aspect-ratio-0">
                                                 <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-2.jpg"
-                                                        src="images/products/gaming/product-2.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-2.jpg"
-                                                        src="images/products/gaming/product-2.jpg" alt="image-product">
+                                                    <img class="lazyload img-product" data-src="uploads/produtos/produto-2-thumb.png" src="uploads/produtos/produto-2-thumb.png" alt="image-product">
+                                                    <img class="lazyload img-hover" data-src="uploads/produtos/produto-2-thumb.png" src="uploads/produtos/produto-2-thumb.png" alt="image-product">
                                                 </a>
+
                                                 <div class="on-sale-wrap"><span class="on-sale-item">-25%</span></div>
+                                                
                                                 <div class="marquee-product bg-main">
                                                     <div class="marquee-wrapper">
                                                         <div class="initial-child-container">
                                                             <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
+                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot Sale 25% OFF</p>
                                                             </div>
+
                                                             <div class="marquee-child-item">
                                                                 <span class="icon icon-lightning text-critical"></span>
                                                             </div>
+
                                                             <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
+                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot Sale 25% OFF</p>
                                                             </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
+
                                                             <div class="marquee-child-item">
                                                                 <span class="icon icon-lightning text-critical"></span>
                                                             </div>
+
                                                             <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
+                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot Sale 25% OFF</p>
                                                             </div>
+                                                            
                                                             <div class="marquee-child-item">
                                                                 <span class="icon icon-lightning text-critical"></span>
                                                             </div>
+
                                                             <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
+                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot Sale 25% OFF</p>
                                                             </div>
+
+                                                            <div class="marquee-child-item">
+                                                                <span class="icon icon-lightning text-critical"></span>
+                                                            </div>
+
+                                                            <div class="marquee-child-item">
+                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot Sale 25% OFF</p>
+                                                            </div>
+
                                                             <div class="marquee-child-item">
                                                                 <span class="icon icon-lightning text-critical"></span>
                                                             </div>
@@ -379,183 +364,80 @@ include_once("_header.php");
                                                         </div>
                                                     </div>
                                                 </div>
+
                                                 <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
                                                     <a href="#quickView" data-bs-toggle="modal"
                                                         class="box-icon quickview tf-btn-loading">
                                                         <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
+                                                        <span class="tooltip">Mais detalhes</span>
                                                     </a>
                                                 </div>
+
                                                 <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
+                                                    <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Add To cart</a>
                                                 </div>
                                             </div>
+
                                             <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">Triple Mode Mechanical
-                                                    Keyboard</a>
-                                                <span class="price"><span class="old-price">$98.00</span> $79.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-light-blue"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-2.jpg"
-                                                            src="images/products/gaming/product-2.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-blue-2"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-2.jpg"
-                                                            src="images/products/gaming/product-2.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
+                                                <a href="product-detail.html" class="title link">Canetinhas</a>
+                                                <!-- <span class="price"><span class="old-price">$98.00</span> $79.99</span> -->
                                             </div>
                                         </div>
                                     </div>
+
                                     <!-- item 3 -->
                                     <div class="swiper-slide">
                                         <div class="card-product wow fadeInUp">
                                             <div class="card-product-wrapper aspect-ratio-0">
                                                 <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-3.jpg"
-                                                        src="images/products/gaming/product-3.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-3.jpg"
-                                                        src="images/products/gaming/product-3.jpg" alt="image-product">
-                                                </a>
-                                                <div class="on-sale-wrap"><span class="on-sale-item">-25%</span></div>
-                                                <div class="variant-wrap countdown-wrap">
-                                                    <div class="variant-box style-1">
-                                                        <div class="js-countdown" data-timer="1007500"
-                                                            data-labels="d :,h :,m :,s"></div>
-                                                    </div>
-                                                </div>
-                                                <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
-                                                    <a href="#quickView" data-bs-toggle="modal"
-                                                        class="box-icon quickview tf-btn-loading">
-                                                        <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
-                                                    </a>
-                                                </div>
-                                                <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
-                                                </div>
-                                            </div>
-                                            <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">Zero IEM Headphones -
-                                                    Blue</a>
-                                                <span class="price"><span class="old-price">$98.00</span> $79.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-light-orange"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-3.jpg"
-                                                            src="images/products/gaming/product-3.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-grey"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-3.jpg"
-                                                            src="images/products/gaming/product-3.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- item 3 -->
-                                    <div class="swiper-slide">
-                                        <div class="card-product wow fadeInUp">
-                                            <div class="card-product-wrapper aspect-ratio-0">
-                                                <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-4.jpg"
-                                                        src="images/products/gaming/product-4.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-4.jpg"
-                                                        src="images/products/gaming/product-4.jpg" alt="image-product">
+                                                    <img class="lazyload img-product" data-src="uploads/produtos/produto-3-thumb.png" src="uploads/produtos/produto-3-thumb.png" alt="image-product">
+                                                    <img class="lazyload img-hover" data-src="uploads/produtos/produto-3-thumb.png" src="uploads/produtos/produto-3-thumb.png" alt="image-product">
                                                 </a>
 
                                                 <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
                                                     <a href="#quickView" data-bs-toggle="modal"
                                                         class="box-icon quickview tf-btn-loading">
                                                         <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
+                                                        <span class="tooltip">Mais detalhes</span>
                                                     </a>
                                                 </div>
+
                                                 <div class="list-btn-main">
                                                     <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
+                                                        class="btn-main-product">Add To cart</a>
                                                 </div>
                                             </div>
+
                                             <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">RØDE NT-USB Mini
-                                                    Mikrofon</a>
-                                                <span class="price"> $69.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-dark-grey"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-4.jpg"
-                                                            src="images/products/gaming/product-4.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-pink"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-4.jpg"
-                                                            src="images/products/gaming/product-4.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-dark-grey-2"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-4.jpg"
-                                                            src="images/products/gaming/product-4.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
+                                                <a href="product-detail.html" class="title link">Cadeira vintage de metal</a>
+                                                <!-- <span class="price"><span class="old-price">$98.00</span> $79.99</span> -->
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- item 4 -->
+                                    <div class="swiper-slide">
+                                        <div class="card-product wow fadeInUp">
+                                            <div class="card-product-wrapper aspect-ratio-0">
+                                                <a href="product-detail.html" class="product-img">
+                                                    <img class="lazyload img-product" data-src="uploads/produtos/produto-4-thumb.png" src="uploads/produtos/produto-4-thumb.png" alt="image-product">
+                                                    <img class="lazyload img-hover" data-src="uploads/produtos/produto-4-thumb.png" src="uploads/produtos/produto-4-thumb.png" alt="image-product">
+                                                </a>
+
+                                                <div class="list-product-btn">
+                                                    <a href="#quickView" data-bs-toggle="modal" class="box-icon quickview tf-btn-loading">
+                                                        <span class="icon icon-eye"></span>
+                                                        <span class="tooltip">Mais detalhes</span>
+                                                    </a>
+                                                </div>
+
+                                                <div class="list-btn-main">
+                                                    <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Add To cart</a>
+                                                </div>
+                                            </div>
+
+                                            <div class="card-product-info">
+                                                <a href="product-detail.html" class="title link">Cadeira de escritorio</a>
                                             </div>
                                         </div>
                                     </div>
@@ -566,342 +448,155 @@ include_once("_header.php");
                             </div>
                         </div>
 
-                        <div class="tab-pane" id="mouse" role="tabpanel">
-                            <div dir="ltr" class="swiper tf-sw-latest" data-preview="4" data-tablet="3" data-mobile="2"
-                                data-space-lg="30" data-space-md="30" data-space="15" data-pagination="1"
-                                data-pagination-md="1" data-pagination-lg="1">
+                        <!-- EXEMPLO EXEMPLO EXEMPLO EXEMPLO EXEMPLO EXEMPLO EXEMPLO -->
+                        <div class="tab-pane" id="escritorio" role="tabpanel">
+                            <div dir="ltr" class="swiper tf-sw-latest" data-preview="4" data-tablet="3" data-mobile="2" data-space-lg="30" data-space-md="30" data-space="15" data-pagination="1" data-pagination-md="1" data-pagination-lg="1">
                                 <div class="swiper-wrapper">
+
                                     <!-- item 1 -->
                                     <div class="swiper-slide">
                                         <div class="card-product wow fadeInUp">
                                             <div class="card-product-wrapper aspect-ratio-0">
                                                 <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-1.jpg"
-                                                        src="images/products/gaming/product-1.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-1.jpg"
-                                                        src="images/products/gaming/product-1.jpg" alt="image-product">
+                                                    <img class="lazyload img-product" data-src="uploads/produtos/produto-3-thumb.png" src="uploads/produtos/produto-3-thumb.png" alt="image-product">
+                                                    <img class="lazyload img-hover" data-src="uploads/produtos/produto-3-thumb.png" src="uploads/produtos/produto-3-thumb.png" alt="image-product">
                                                 </a>
 
                                                 <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
                                                     <a href="#quickView" data-bs-toggle="modal"
                                                         class="box-icon quickview tf-btn-loading">
                                                         <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
+                                                        <span class="tooltip">Mais detalhes</span>
                                                     </a>
                                                 </div>
+
                                                 <div class="list-btn-main">
                                                     <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
+                                                        class="btn-main-product">Add To cart</a>
                                                 </div>
                                             </div>
+
                                             <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">UwU Mini Keyboard</a>
-                                                <span class="price">$79.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-light-blue"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-1.jpg"
-                                                            src="images/products/gaming/product-1.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-blue-2"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-1.jpg"
-                                                            src="images/products/gaming/product-1.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
+                                                <a href="product-detail.html" class="title link">Cadeira vintage de metal</a>
+                                                <!-- <span class="price"><span class="old-price">$98.00</span> $79.99</span> -->
                                             </div>
                                         </div>
                                     </div>
+
                                     <!-- item 2 -->
                                     <div class="swiper-slide">
                                         <div class="card-product wow fadeInUp">
                                             <div class="card-product-wrapper aspect-ratio-0">
                                                 <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-2.jpg"
-                                                        src="images/products/gaming/product-2.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-2.jpg"
-                                                        src="images/products/gaming/product-2.jpg" alt="image-product">
+                                                    <img class="lazyload img-product" data-src="uploads/produtos/produto-4-thumb.png" src="uploads/produtos/produto-4-thumb.png" alt="image-product">
+                                                    <img class="lazyload img-hover" data-src="uploads/produtos/produto-4-thumb.png" src="uploads/produtos/produto-4-thumb.png" alt="image-product">
                                                 </a>
-                                                <div class="on-sale-wrap"><span class="on-sale-item">-25%</span></div>
-                                                <div class="marquee-product bg-main">
-                                                    <div class="marquee-wrapper">
-                                                        <div class="initial-child-container">
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="marquee-wrapper">
-                                                        <div class="initial-child-container">
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
+
                                                 <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
-                                                    <a href="#quickView" data-bs-toggle="modal"
-                                                        class="box-icon quickview tf-btn-loading">
+                                                    <a href="#quickView" data-bs-toggle="modal" class="box-icon quickview tf-btn-loading">
                                                         <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
+                                                        <span class="tooltip">Mais detalhes</span>
                                                     </a>
                                                 </div>
+
                                                 <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
+                                                    <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Add To cart</a>
                                                 </div>
                                             </div>
+
                                             <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">Triple Mode Mechanical
-                                                    Keyboard</a>
-                                                <span class="price"><span class="old-price">$98.00</span> $79.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-light-blue"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-2.jpg"
-                                                            src="images/products/gaming/product-2.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-blue-2"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-2.jpg"
-                                                            src="images/products/gaming/product-2.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
+                                                <a href="product-detail.html" class="title link">Cadeira de escritorio</a>
                                             </div>
                                         </div>
                                     </div>
+
                                 </div>
+
                                 <div class="sw-pagination-latest sw-dots type-circle justify-content-center"></div>
                             </div>
                         </div>
 
-                        <div class="tab-pane" id="keyboard" role="tabpanel">
-                            <div dir="ltr" class="swiper tf-sw-latest" data-preview="4" data-tablet="3" data-mobile="2"
-                                data-space-lg="30" data-space-md="30" data-space="15" data-pagination="1"
-                                data-pagination-md="1" data-pagination-lg="1">
+                        <div class="tab-pane" id="material-escolar" role="tabpanel">
+                            <div dir="ltr" class="swiper tf-sw-latest" data-preview="4" data-tablet="3" data-mobile="2" data-space-lg="30" data-space-md="30" data-space="15" data-pagination="1" data-pagination-md="1" data-pagination-lg="1">
                                 <div class="swiper-wrapper">
+
                                     <!-- item 1 -->
                                     <div class="swiper-slide">
                                         <div class="card-product wow fadeInUp">
                                             <div class="card-product-wrapper aspect-ratio-0">
                                                 <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-1.jpg"
-                                                        src="images/products/gaming/product-1.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-1.jpg"
-                                                        src="images/products/gaming/product-1.jpg" alt="image-product">
+                                                    <img class="lazyload img-product" data-src="uploads/produtos/produto-1-thumb.png" src="uploads/produtos/produto-1-thumb.png" alt="image-product">
+                                                    <img class="lazyload img-hover" data-src="uploads/produtos/produto-1-thumb.png" src="uploads/produtos/produto-1-thumb.png" alt="image-product">
                                                 </a>
 
                                                 <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
-                                                    <a href="#quickView" data-bs-toggle="modal"
-                                                        class="box-icon quickview tf-btn-loading">
+                                                    <a href="#quickView" data-bs-toggle="modal" class="box-icon quickview tf-btn-loading">
                                                         <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
+                                                        <span class="tooltip">Mais detalhes</span>
                                                     </a>
                                                 </div>
+
                                                 <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
+                                                    <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Add To cart</a>
                                                 </div>
                                             </div>
+
                                             <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">UwU Mini Keyboard</a>
-                                                <span class="price">$79.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-light-blue"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-1.jpg"
-                                                            src="images/products/gaming/product-1.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-blue-2"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-1.jpg"
-                                                            src="images/products/gaming/product-1.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
+                                                <a href="product-detail.html" class="title link">Giz de cera</a>
                                             </div>
                                         </div>
                                     </div>
+
                                     <!-- item 2 -->
                                     <div class="swiper-slide">
                                         <div class="card-product wow fadeInUp">
                                             <div class="card-product-wrapper aspect-ratio-0">
                                                 <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-2.jpg"
-                                                        src="images/products/gaming/product-2.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-2.jpg"
-                                                        src="images/products/gaming/product-2.jpg" alt="image-product">
+                                                    <img class="lazyload img-product" data-src="uploads/produtos/produto-2-thumb.png" src="uploads/produtos/produto-2-thumb.png" alt="image-product">
+                                                    <img class="lazyload img-hover" data-src="uploads/produtos/produto-2-thumb.png" src="uploads/produtos/produto-2-thumb.png" alt="image-product">
                                                 </a>
+
                                                 <div class="on-sale-wrap"><span class="on-sale-item">-25%</span></div>
+                                                
                                                 <div class="marquee-product bg-main">
                                                     <div class="marquee-wrapper">
                                                         <div class="initial-child-container">
                                                             <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
+                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot Sale 25% OFF</p>
                                                             </div>
+
                                                             <div class="marquee-child-item">
                                                                 <span class="icon icon-lightning text-critical"></span>
                                                             </div>
+
                                                             <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
+                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot Sale 25% OFF</p>
                                                             </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
+
                                                             <div class="marquee-child-item">
                                                                 <span class="icon icon-lightning text-critical"></span>
                                                             </div>
+
                                                             <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
+                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot Sale 25% OFF</p>
                                                             </div>
+                                                            
                                                             <div class="marquee-child-item">
                                                                 <span class="icon icon-lightning text-critical"></span>
                                                             </div>
+
                                                             <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
+                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot Sale 25% OFF</p>
                                                             </div>
+
+                                                            <div class="marquee-child-item">
+                                                                <span class="icon icon-lightning text-critical"></span>
+                                                            </div>
+
+                                                            <div class="marquee-child-item">
+                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot Sale 25% OFF</p>
+                                                            </div>
+
                                                             <div class="marquee-child-item">
                                                                 <span class="icon icon-lightning text-critical"></span>
                                                             </div>
@@ -952,1251 +647,38 @@ include_once("_header.php");
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
-                                                    <a href="#quickView" data-bs-toggle="modal"
-                                                        class="box-icon quickview tf-btn-loading">
-                                                        <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
-                                                    </a>
-                                                </div>
-                                                <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
-                                                </div>
-                                            </div>
-                                            <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">Triple Mode Mechanical
-                                                    Keyboard</a>
-                                                <span class="price"><span class="old-price">$98.00</span> $79.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-light-blue"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-2.jpg"
-                                                            src="images/products/gaming/product-2.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-blue-2"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-2.jpg"
-                                                            src="images/products/gaming/product-2.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- item 3 -->
-                                    <div class="swiper-slide">
-                                        <div class="card-product wow fadeInUp">
-                                            <div class="card-product-wrapper aspect-ratio-0">
-                                                <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-3.jpg"
-                                                        src="images/products/gaming/product-3.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-3.jpg"
-                                                        src="images/products/gaming/product-3.jpg" alt="image-product">
-                                                </a>
-                                                <div class="on-sale-wrap"><span class="on-sale-item">-25%</span></div>
-                                                <div class="variant-wrap countdown-wrap">
-                                                    <div class="variant-box style-1">
-                                                        <div class="js-countdown" data-timer="1007500"
-                                                            data-labels="d :,h :,m :,s"></div>
-                                                    </div>
-                                                </div>
-                                                <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
-                                                    <a href="#quickView" data-bs-toggle="modal"
-                                                        class="box-icon quickview tf-btn-loading">
-                                                        <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
-                                                    </a>
-                                                </div>
-                                                <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
-                                                </div>
-                                            </div>
-                                            <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">Zero IEM Headphones -
-                                                    Blue</a>
-                                                <span class="price"><span class="old-price">$98.00</span> $79.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-light-orange"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-3.jpg"
-                                                            src="images/products/gaming/product-3.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-grey"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-3.jpg"
-                                                            src="images/products/gaming/product-3.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- item 3 -->
-                                    <div class="swiper-slide">
-                                        <div class="card-product wow fadeInUp">
-                                            <div class="card-product-wrapper aspect-ratio-0">
-                                                <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-4.jpg"
-                                                        src="images/products/gaming/product-4.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-4.jpg"
-                                                        src="images/products/gaming/product-4.jpg" alt="image-product">
-                                                </a>
 
                                                 <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
                                                     <a href="#quickView" data-bs-toggle="modal"
                                                         class="box-icon quickview tf-btn-loading">
                                                         <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
+                                                        <span class="tooltip">Mais detalhes</span>
                                                     </a>
                                                 </div>
+
                                                 <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
+                                                    <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Add To cart</a>
                                                 </div>
                                             </div>
+
                                             <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">RØDE NT-USB Mini
-                                                    Mikrofon</a>
-                                                <span class="price"> $69.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-dark-grey"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-4.jpg"
-                                                            src="images/products/gaming/product-4.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-pink"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-4.jpg"
-                                                            src="images/products/gaming/product-4.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-dark-grey-2"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-4.jpg"
-                                                            src="images/products/gaming/product-4.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
+                                                <a href="product-detail.html" class="title link">Canetinhas</a>
+                                                <!-- <span class="price"><span class="old-price">$98.00</span> $79.99</span> -->
                                             </div>
                                         </div>
                                     </div>
+
                                 </div>
+
                                 <div class="sw-pagination-latest sw-dots type-circle justify-content-center"></div>
                             </div>
                         </div>
-
-                        <div class="tab-pane" id="mousepad" role="tabpanel">
-                            <div dir="ltr" class="swiper tf-sw-latest" data-preview="4" data-tablet="3" data-mobile="2"
-                                data-space-lg="30" data-space-md="30" data-space="15" data-pagination="1"
-                                data-pagination-md="1" data-pagination-lg="1">
-                                <div class="swiper-wrapper">
-                                    <!-- item 1 -->
-                                    <div class="swiper-slide">
-                                        <div class="card-product wow fadeInUp">
-                                            <div class="card-product-wrapper aspect-ratio-0">
-                                                <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-1.jpg"
-                                                        src="images/products/gaming/product-1.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-1.jpg"
-                                                        src="images/products/gaming/product-1.jpg" alt="image-product">
-                                                </a>
-
-                                                <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
-                                                    <a href="#quickView" data-bs-toggle="modal"
-                                                        class="box-icon quickview tf-btn-loading">
-                                                        <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
-                                                    </a>
-                                                </div>
-                                                <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
-                                                </div>
-                                            </div>
-                                            <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">UwU Mini Keyboard</a>
-                                                <span class="price">$79.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-light-blue"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-1.jpg"
-                                                            src="images/products/gaming/product-1.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-blue-2"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-1.jpg"
-                                                            src="images/products/gaming/product-1.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- item 2 -->
-                                    <div class="swiper-slide">
-                                        <div class="card-product wow fadeInUp">
-                                            <div class="card-product-wrapper aspect-ratio-0">
-                                                <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-2.jpg"
-                                                        src="images/products/gaming/product-2.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-2.jpg"
-                                                        src="images/products/gaming/product-2.jpg" alt="image-product">
-                                                </a>
-                                                <div class="on-sale-wrap"><span class="on-sale-item">-25%</span></div>
-                                                <div class="marquee-product bg-main">
-                                                    <div class="marquee-wrapper">
-                                                        <div class="initial-child-container">
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="marquee-wrapper">
-                                                        <div class="initial-child-container">
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
-                                                    <a href="#quickView" data-bs-toggle="modal"
-                                                        class="box-icon quickview tf-btn-loading">
-                                                        <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
-                                                    </a>
-                                                </div>
-                                                <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
-                                                </div>
-                                            </div>
-                                            <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">Triple Mode Mechanical
-                                                    Keyboard</a>
-                                                <span class="price"><span class="old-price">$98.00</span> $79.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-light-blue"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-2.jpg"
-                                                            src="images/products/gaming/product-2.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-blue-2"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-2.jpg"
-                                                            src="images/products/gaming/product-2.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- item 3 -->
-                                    <div class="swiper-slide">
-                                        <div class="card-product wow fadeInUp">
-                                            <div class="card-product-wrapper aspect-ratio-0">
-                                                <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-3.jpg"
-                                                        src="images/products/gaming/product-3.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-3.jpg"
-                                                        src="images/products/gaming/product-3.jpg" alt="image-product">
-                                                </a>
-                                                <div class="on-sale-wrap"><span class="on-sale-item">-25%</span></div>
-                                                <div class="variant-wrap countdown-wrap">
-                                                    <div class="variant-box style-1">
-                                                        <div class="js-countdown" data-timer="1007500"
-                                                            data-labels="d :,h :,m :,s"></div>
-                                                    </div>
-                                                </div>
-                                                <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
-                                                    <a href="#quickView" data-bs-toggle="modal"
-                                                        class="box-icon quickview tf-btn-loading">
-                                                        <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
-                                                    </a>
-                                                </div>
-                                                <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
-                                                </div>
-                                            </div>
-                                            <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">Zero IEM Headphones -
-                                                    Blue</a>
-                                                <span class="price"><span class="old-price">$98.00</span> $79.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-light-orange"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-3.jpg"
-                                                            src="images/products/gaming/product-3.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-grey"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-3.jpg"
-                                                            src="images/products/gaming/product-3.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- item 3 -->
-                                    <div class="swiper-slide">
-                                        <div class="card-product wow fadeInUp">
-                                            <div class="card-product-wrapper aspect-ratio-0">
-                                                <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-4.jpg"
-                                                        src="images/products/gaming/product-4.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-4.jpg"
-                                                        src="images/products/gaming/product-4.jpg" alt="image-product">
-                                                </a>
-
-                                                <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
-                                                    <a href="#quickView" data-bs-toggle="modal"
-                                                        class="box-icon quickview tf-btn-loading">
-                                                        <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
-                                                    </a>
-                                                </div>
-                                                <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
-                                                </div>
-                                            </div>
-                                            <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">RØDE NT-USB Mini
-                                                    Mikrofon</a>
-                                                <span class="price"> $69.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-dark-grey"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-4.jpg"
-                                                            src="images/products/gaming/product-4.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-pink"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-4.jpg"
-                                                            src="images/products/gaming/product-4.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-dark-grey-2"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-4.jpg"
-                                                            src="images/products/gaming/product-4.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="sw-pagination-latest sw-dots type-circle justify-content-center"></div>
-                            </div>
-                        </div>
-
-                        <div class="tab-pane" id="cable" role="tabpanel">
-                            <div dir="ltr" class="swiper tf-sw-latest" data-preview="4" data-tablet="3" data-mobile="2"
-                                data-space-lg="30" data-space-md="30" data-space="15" data-pagination="1"
-                                data-pagination-md="1" data-pagination-lg="1">
-                                <div class="swiper-wrapper">
-                                    <!-- item 1 -->
-                                    <div class="swiper-slide">
-                                        <div class="card-product wow fadeInUp">
-                                            <div class="card-product-wrapper aspect-ratio-0">
-                                                <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-1.jpg"
-                                                        src="images/products/gaming/product-1.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-1.jpg"
-                                                        src="images/products/gaming/product-1.jpg" alt="image-product">
-                                                </a>
-
-                                                <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
-                                                    <a href="#quickView" data-bs-toggle="modal"
-                                                        class="box-icon quickview tf-btn-loading">
-                                                        <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
-                                                    </a>
-                                                </div>
-                                                <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
-                                                </div>
-                                            </div>
-                                            <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">UwU Mini Keyboard</a>
-                                                <span class="price">$79.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-light-blue"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-1.jpg"
-                                                            src="images/products/gaming/product-1.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-blue-2"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-1.jpg"
-                                                            src="images/products/gaming/product-1.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- item 2 -->
-                                    <div class="swiper-slide">
-                                        <div class="card-product wow fadeInUp">
-                                            <div class="card-product-wrapper aspect-ratio-0">
-                                                <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-2.jpg"
-                                                        src="images/products/gaming/product-2.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-2.jpg"
-                                                        src="images/products/gaming/product-2.jpg" alt="image-product">
-                                                </a>
-                                                <div class="on-sale-wrap"><span class="on-sale-item">-25%</span></div>
-                                                <div class="marquee-product bg-main">
-                                                    <div class="marquee-wrapper">
-                                                        <div class="initial-child-container">
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="marquee-wrapper">
-                                                        <div class="initial-child-container">
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
-                                                    <a href="#quickView" data-bs-toggle="modal"
-                                                        class="box-icon quickview tf-btn-loading">
-                                                        <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
-                                                    </a>
-                                                </div>
-                                                <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
-                                                </div>
-                                            </div>
-                                            <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">Triple Mode Mechanical
-                                                    Keyboard</a>
-                                                <span class="price"><span class="old-price">$98.00</span> $79.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-light-blue"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-2.jpg"
-                                                            src="images/products/gaming/product-2.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-blue-2"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-2.jpg"
-                                                            src="images/products/gaming/product-2.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- item 3 -->
-                                    <div class="swiper-slide">
-                                        <div class="card-product wow fadeInUp">
-                                            <div class="card-product-wrapper aspect-ratio-0">
-                                                <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-3.jpg"
-                                                        src="images/products/gaming/product-3.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-3.jpg"
-                                                        src="images/products/gaming/product-3.jpg" alt="image-product">
-                                                </a>
-                                                <div class="on-sale-wrap"><span class="on-sale-item">-25%</span></div>
-                                                <div class="variant-wrap countdown-wrap">
-                                                    <div class="variant-box style-1">
-                                                        <div class="js-countdown" data-timer="1007500"
-                                                            data-labels="d :,h :,m :,s"></div>
-                                                    </div>
-                                                </div>
-                                                <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
-                                                    <a href="#quickView" data-bs-toggle="modal"
-                                                        class="box-icon quickview tf-btn-loading">
-                                                        <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
-                                                    </a>
-                                                </div>
-                                                <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
-                                                </div>
-                                            </div>
-                                            <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">Zero IEM Headphones -
-                                                    Blue</a>
-                                                <span class="price"><span class="old-price">$98.00</span> $79.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-light-orange"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-3.jpg"
-                                                            src="images/products/gaming/product-3.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-grey"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-3.jpg"
-                                                            src="images/products/gaming/product-3.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- item 3 -->
-                                    <div class="swiper-slide">
-                                        <div class="card-product wow fadeInUp">
-                                            <div class="card-product-wrapper aspect-ratio-0">
-                                                <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-4.jpg"
-                                                        src="images/products/gaming/product-4.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-4.jpg"
-                                                        src="images/products/gaming/product-4.jpg" alt="image-product">
-                                                </a>
-
-                                                <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
-                                                    <a href="#quickView" data-bs-toggle="modal"
-                                                        class="box-icon quickview tf-btn-loading">
-                                                        <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
-                                                    </a>
-                                                </div>
-                                                <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
-                                                </div>
-                                            </div>
-                                            <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">RØDE NT-USB Mini
-                                                    Mikrofon</a>
-                                                <span class="price"> $69.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-dark-grey"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-4.jpg"
-                                                            src="images/products/gaming/product-4.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-pink"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-4.jpg"
-                                                            src="images/products/gaming/product-4.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-dark-grey-2"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-4.jpg"
-                                                            src="images/products/gaming/product-4.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="sw-pagination-latest sw-dots type-circle justify-content-center"></div>
-                            </div>
-                        </div>
-
-                        <div class="tab-pane" id="networking" role="tabpanel">
-                            <div dir="ltr" class="swiper tf-sw-latest" data-preview="4" data-tablet="3" data-mobile="2"
-                                data-space-lg="30" data-space-md="30" data-space="15" data-pagination="1"
-                                data-pagination-md="1" data-pagination-lg="1">
-                                <div class="swiper-wrapper">
-                                    <!-- item 1 -->
-                                    <div class="swiper-slide">
-                                        <div class="card-product wow fadeInUp">
-                                            <div class="card-product-wrapper aspect-ratio-0">
-                                                <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-1.jpg"
-                                                        src="images/products/gaming/product-1.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-1.jpg"
-                                                        src="images/products/gaming/product-1.jpg" alt="image-product">
-                                                </a>
-
-                                                <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
-                                                    <a href="#quickView" data-bs-toggle="modal"
-                                                        class="box-icon quickview tf-btn-loading">
-                                                        <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
-                                                    </a>
-                                                </div>
-                                                <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
-                                                </div>
-                                            </div>
-                                            <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">UwU Mini Keyboard</a>
-                                                <span class="price">$79.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-light-blue"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-1.jpg"
-                                                            src="images/products/gaming/product-1.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-blue-2"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-1.jpg"
-                                                            src="images/products/gaming/product-1.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- item 2 -->
-                                    <div class="swiper-slide">
-                                        <div class="card-product wow fadeInUp">
-                                            <div class="card-product-wrapper aspect-ratio-0">
-                                                <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-2.jpg"
-                                                        src="images/products/gaming/product-2.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-2.jpg"
-                                                        src="images/products/gaming/product-2.jpg" alt="image-product">
-                                                </a>
-                                                <div class="on-sale-wrap"><span class="on-sale-item">-25%</span></div>
-                                                <div class="marquee-product bg-main">
-                                                    <div class="marquee-wrapper">
-                                                        <div class="initial-child-container">
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="marquee-wrapper">
-                                                        <div class="initial-child-container">
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
-                                                    <a href="#quickView" data-bs-toggle="modal"
-                                                        class="box-icon quickview tf-btn-loading">
-                                                        <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
-                                                    </a>
-                                                </div>
-                                                <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
-                                                </div>
-                                            </div>
-                                            <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">Triple Mode Mechanical
-                                                    Keyboard</a>
-                                                <span class="price"><span class="old-price">$98.00</span> $79.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-light-blue"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-2.jpg"
-                                                            src="images/products/gaming/product-2.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-blue-2"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-2.jpg"
-                                                            src="images/products/gaming/product-2.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- item 3 -->
-                                    <div class="swiper-slide">
-                                        <div class="card-product wow fadeInUp">
-                                            <div class="card-product-wrapper aspect-ratio-0">
-                                                <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-3.jpg"
-                                                        src="images/products/gaming/product-3.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-3.jpg"
-                                                        src="images/products/gaming/product-3.jpg" alt="image-product">
-                                                </a>
-                                                <div class="on-sale-wrap"><span class="on-sale-item">-25%</span></div>
-                                                <div class="variant-wrap countdown-wrap">
-                                                    <div class="variant-box style-1">
-                                                        <div class="js-countdown" data-timer="1007500"
-                                                            data-labels="d :,h :,m :,s"></div>
-                                                    </div>
-                                                </div>
-                                                <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
-                                                    <a href="#quickView" data-bs-toggle="modal"
-                                                        class="box-icon quickview tf-btn-loading">
-                                                        <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
-                                                    </a>
-                                                </div>
-                                                <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
-                                                </div>
-                                            </div>
-                                            <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">Zero IEM Headphones -
-                                                    Blue</a>
-                                                <span class="price"><span class="old-price">$98.00</span> $79.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-light-orange"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-3.jpg"
-                                                            src="images/products/gaming/product-3.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-grey"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-3.jpg"
-                                                            src="images/products/gaming/product-3.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- item 3 -->
-                                    <div class="swiper-slide">
-                                        <div class="card-product wow fadeInUp">
-                                            <div class="card-product-wrapper aspect-ratio-0">
-                                                <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-4.jpg"
-                                                        src="images/products/gaming/product-4.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-4.jpg"
-                                                        src="images/products/gaming/product-4.jpg" alt="image-product">
-                                                </a>
-
-                                                <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
-                                                    <a href="#quickView" data-bs-toggle="modal"
-                                                        class="box-icon quickview tf-btn-loading">
-                                                        <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
-                                                    </a>
-                                                </div>
-                                                <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
-                                                </div>
-                                            </div>
-                                            <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">RØDE NT-USB Mini
-                                                    Mikrofon</a>
-                                                <span class="price"> $69.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-dark-grey"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-4.jpg"
-                                                            src="images/products/gaming/product-4.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-pink"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-4.jpg"
-                                                            src="images/products/gaming/product-4.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-dark-grey-2"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-4.jpg"
-                                                            src="images/products/gaming/product-4.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="sw-pagination-latest sw-dots type-circle justify-content-center"></div>
-                            </div>
-                        </div>
+                        <!-- EXEMPLO EXEMPLO EXEMPLO EXEMPLO EXEMPLO EXEMPLO EXEMPLO -->
                     </div>
                 </div>
             </div>
         </section>
-        <!-- /Best Seller -->
+        <!-- /Novos produtos -->
 
         <!-- Collection -->
         <section class="flat-spacing">
@@ -2216,7 +698,7 @@ include_once("_header.php");
                                 <div class="content text-start ">
                                     <div class="box-title">
                                         <h5 class="title">
-                                            <a href="shop-default-grid.html" class="link text-white fw-bold">
+                                            <a href="./produtos" class="link text-white fw-bold">
                                                 Controller
                                             </a>
                                         </h5>
@@ -2225,7 +707,7 @@ include_once("_header.php");
                                         </p>
                                     </div>
                                     <div class="box-btn">
-                                        <a href="shop-default-grid.html" class="tf-btn btn-fill btn-white btn-md">
+                                        <a href="./produtos" class="tf-btn btn-fill btn-white btn-md">
                                             <span class="text">Shop now</span>
                                             <i class="icon icon-arrowUpRight"></i>
                                         </a>
@@ -2244,7 +726,7 @@ include_once("_header.php");
                                 <div class="content text-start ">
                                     <div class="box-title">
                                         <h5 class="title">
-                                            <a href="shop-default-grid.html" class="link text-white fw-bold">
+                                            <a href="./produtos" class="link text-white fw-bold">
                                                 Wii Controller
                                             </a>
                                         </h5>
@@ -2253,7 +735,7 @@ include_once("_header.php");
                                         </p>
                                     </div>
                                     <div class="box-btn">
-                                        <a href="shop-default-grid.html" class="tf-btn btn-fill btn-white btn-md">
+                                        <a href="./produtos" class="tf-btn btn-fill btn-white btn-md">
                                             <span class="text">Shop now</span>
                                             <i class="icon icon-arrowUpRight"></i>
                                         </a>
@@ -2272,7 +754,7 @@ include_once("_header.php");
                                 <div class="content text-start ">
                                     <div class="box-title">
                                         <h5 class="title">
-                                            <a href="shop-default-grid.html" class="link text-white fw-bold">
+                                            <a href="./produtos" class="link text-white fw-bold">
                                                 Earbuds
                                             </a>
                                         </h5>
@@ -2281,7 +763,7 @@ include_once("_header.php");
                                         </p>
                                     </div>
                                     <div class="box-btn">
-                                        <a href="shop-default-grid.html" class="tf-btn btn-fill btn-white btn-md">
+                                        <a href="./produtos" class="tf-btn btn-fill btn-white btn-md">
                                             <span class="text">Shop now</span>
                                             <i class="icon icon-arrowUpRight"></i>
                                         </a>
@@ -2295,204 +777,6 @@ include_once("_header.php");
             </div>
         </section>
         <!-- /Collection -->
-
-        <!-- Banner lookbook -->
-        <section class="banner-lookbook">
-            <img class="lazyload" data-src="images/banner/banner-lb-gaming.jpg" src="images/banner/banner-lb-gaming.jpg"
-                alt="banner">
-            <div class="lookbook-item position5">
-                <div class="dropdown dropup-center dropdown-custom">
-                    <div role="dialog" class="tf-pin-btn" data-bs-toggle="dropdown" aria-expanded="false">
-                        <span></span>
-                    </div>
-                    <div class="dropdown-menu">
-                        <div class="loobook-product style-row">
-                            <div class="img-style">
-                                <img src="images/products/gaming/product-lb.jpg" alt="img">
-                            </div>
-                            <div class="content">
-                                <div class="info">
-                                    <a href="product-detail.html" class="text-title text-line-clamp-1 link">DeePoon M2
-                                        is a VR headset</a>
-                                    <div class="price text-button">$69.99</div>
-                                </div>
-                                <a href="#quickView" data-bs-toggle="modal" class="btn-lookbook btn-line">Quick View</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- /Banner lookbook -->
-
-        <!-- Feature Product -->
-        <section class="flat-spacing">
-            <div class="container">
-                <div class="heading-section-2 type-2 wow fadeInUp">
-                    <h3 class="heading font-5 fw-bold">Features Product</h3>
-                    <a href="shop-collection.html" class="btn-line">View All Products</a>
-                </div>
-                <div dir="ltr" class="swiper tf-sw-collection" data-preview="3" data-tablet="2" data-mobile="1"
-                    data-space-lg="30" data-space-md="20" data-space="15" data-pagination="1" data-pagination-md="2"
-                    data-pagination-lg="3">
-                    <div class="swiper-wrapper">
-                        <!-- item 1 -->
-                        <div class="swiper-slide">
-                            <div class="card-product wow fadeInUp">
-                                <div class="card-product-wrapper aspect-ratio-0">
-                                    <a href="product-detail.html" class="product-img">
-                                        <img class="lazyload img-product"
-                                            data-src="images/products/gaming/product-5.jpg"
-                                            src="images/products/gaming/product-5.jpg" alt="image-product">
-                                        <img class="lazyload img-hover" data-src="images/products/gaming/product-5.jpg"
-                                            src="images/products/gaming/product-5.jpg" alt="image-product">
-                                    </a>
-                                    <div class="list-product-btn">
-                                        <a href="javascript:void(0);" class="box-icon wishlist btn-icon-action">
-                                            <span class="icon icon-heart"></span>
-                                            <span class="tooltip">Wishlist</span>
-                                        </a>
-                                        <a href="#compare" data-bs-toggle="offcanvas" aria-controls="compare"
-                                            class="box-icon compare btn-icon-action">
-                                            <span class="icon icon-gitDiff"></span>
-                                            <span class="tooltip">Compare</span>
-                                        </a>
-                                        <a href="#quickView" data-bs-toggle="modal"
-                                            class="box-icon quickview tf-btn-loading">
-                                            <span class="icon icon-eye"></span>
-                                            <span class="tooltip">Quick View</span>
-                                        </a>
-                                    </div>
-                                    <div class="list-btn-main">
-                                        <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Add To
-                                            cart</a>
-                                    </div>
-                                </div>
-                                <div class="card-product-info">
-                                    <a href="product-detail.html" class="title link">Amazon Echo Studio</a>
-                                    <span class="price">$79.99</span>
-                                    <ul class="list-color-product">
-                                        <li class="list-color-item color-swatch active line">
-                                            <span class="swatch-value bg-light-blue"></span>
-                                            <img class="lazyload" data-src="images/products/gaming/product-5.jpg"
-                                                src="images/products/gaming/product-5.jpg" alt="image-product">
-                                        </li>
-                                        <li class="list-color-item color-swatch">
-                                            <span class="swatch-value bg-light-blue-2"></span>
-                                            <img class="lazyload" data-src="images/products/gaming/product-5.jpg"
-                                                src="images/products/gaming/product-5.jpg" alt="image-product">
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- item 2 -->
-                        <div class="swiper-slide">
-                            <div class="card-product wow fadeInUp">
-                                <div class="card-product-wrapper aspect-ratio-0">
-                                    <a href="product-detail.html" class="product-img">
-                                        <img class="lazyload img-product"
-                                            data-src="images/products/gaming/product-6.jpg"
-                                            src="images/products/gaming/product-6.jpg" alt="image-product">
-                                        <img class="lazyload img-hover" data-src="images/products/gaming/product-6.jpg"
-                                            src="images/products/gaming/product-6.jpg" alt="image-product">
-                                    </a>
-                                    <div class="on-sale-wrap"><span class="on-sale-item">-25%</span></div>
-                                    <div class="list-product-btn">
-                                        <a href="javascript:void(0);" class="box-icon wishlist btn-icon-action">
-                                            <span class="icon icon-heart"></span>
-                                            <span class="tooltip">Wishlist</span>
-                                        </a>
-                                        <a href="#compare" data-bs-toggle="offcanvas" aria-controls="compare"
-                                            class="box-icon compare btn-icon-action">
-                                            <span class="icon icon-gitDiff"></span>
-                                            <span class="tooltip">Compare</span>
-                                        </a>
-                                        <a href="#quickView" data-bs-toggle="modal"
-                                            class="box-icon quickview tf-btn-loading">
-                                            <span class="icon icon-eye"></span>
-                                            <span class="tooltip">Quick View</span>
-                                        </a>
-                                    </div>
-                                    <div class="list-btn-main">
-                                        <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Add To
-                                            cart</a>
-                                    </div>
-                                </div>
-                                <div class="card-product-info">
-                                    <a href="product-detail.html" class="title link">MW75 - Wireless Headphones</a>
-                                    <span class="price">$79.99</span>
-                                    <ul class="list-color-product">
-                                        <li class="list-color-item color-swatch active line">
-                                            <span class="swatch-value bg-light-blue"></span>
-                                            <img class="lazyload" data-src="images/products/gaming/product-6.jpg"
-                                                src="images/products/gaming/product-6.jpg" alt="image-product">
-                                        </li>
-                                        <li class="list-color-item color-swatch">
-                                            <span class="swatch-value bg-light-blue-2"></span>
-                                            <img class="lazyload" data-src="images/products/gaming/product-6.jpg"
-                                                src="images/products/gaming/product-6.jpg" alt="image-product">
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- item 3 -->
-                        <div class="swiper-slide">
-                            <div class="card-product wow fadeInUp">
-                                <div class="card-product-wrapper aspect-ratio-0">
-                                    <a href="product-detail.html" class="product-img">
-                                        <img class="lazyload img-product"
-                                            data-src="images/products/gaming/product-7.jpg"
-                                            src="images/products/gaming/product-7.jpg" alt="image-product">
-                                        <img class="lazyload img-hover" data-src="images/products/gaming/product-7.jpg"
-                                            src="images/products/gaming/product-7.jpg" alt="image-product">
-                                    </a>
-                                    <div class="list-product-btn">
-                                        <a href="javascript:void(0);" class="box-icon wishlist btn-icon-action">
-                                            <span class="icon icon-heart"></span>
-                                            <span class="tooltip">Wishlist</span>
-                                        </a>
-                                        <a href="#compare" data-bs-toggle="offcanvas" aria-controls="compare"
-                                            class="box-icon compare btn-icon-action">
-                                            <span class="icon icon-gitDiff"></span>
-                                            <span class="tooltip">Compare</span>
-                                        </a>
-                                        <a href="#quickView" data-bs-toggle="modal"
-                                            class="box-icon quickview tf-btn-loading">
-                                            <span class="icon icon-eye"></span>
-                                            <span class="tooltip">Quick View</span>
-                                        </a>
-                                    </div>
-                                    <div class="list-btn-main">
-                                        <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Add To
-                                            cart</a>
-                                    </div>
-                                </div>
-                                <div class="card-product-info">
-                                    <a href="product-detail.html" class="title link">DeePoon M2 is a VR headset</a>
-                                    <span class="price">$79.99</span>
-                                    <ul class="list-color-product">
-                                        <li class="list-color-item color-swatch active line">
-                                            <span class="swatch-value bg-light-blue"></span>
-                                            <img class="lazyload" data-src="images/products/gaming/product-7.jpg"
-                                                src="images/products/gaming/product-7.jpg" alt="image-product">
-                                        </li>
-                                        <li class="list-color-item color-swatch">
-                                            <span class="swatch-value bg-light-blue-2"></span>
-                                            <img class="lazyload" data-src="images/products/gaming/product-7.jpg"
-                                                src="images/products/gaming/product-7.jpg" alt="image-product">
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="sw-pagination-collection sw-dots type-circle justify-content-center"></div>
-                </div>
-            </div>
-        </section>
-        <!-- /Feature Product -->
 
         <!-- Testimonial -->
         <section class="flat-spacing pt-0">
@@ -2557,45 +841,44 @@ include_once("_header.php");
         </section>
         <!-- /Testimonial -->
 
-        <!-- Collection -->
+        <!-- Ultimas postagem do blog -->
         <section>
             <div class="container">
                 <div class="heading-section-2 align-items-center type-2 wow fadeInUp">
-                    <h3 class="heading font-5 fw-bold">News & Reviews</h3>
-                    <a href="shop-collection.html" class="btn-line">View All</a>
+                    <h3 class="heading font-5 fw-bold">Ultimas postagens</h3>
+                    <a href="./blog" class="btn-line">Confira mais</a>
                 </div>
-                <div class="swiper tf-sw-partner" data-preview="2" data-tablet="2" data-mobile="1" data-space-lg="30"
-                    data-space-md="30" data-space="15" data-pagination="1" data-pagination-md="1"
-                    data-pagination-lg="1">
+
+                <div class="swiper tf-sw-partner" data-preview="2" data-tablet="2" data-mobile="1" data-space-lg="30" data-space-md="30" data-space="15" data-pagination="1" data-pagination-md="1" data-pagination-lg="1">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="wg-blog style-abs hover-image wow fadeInUp" data-wow-delay="0s">
-                                <a href="blog-detail.html" class="image">
-                                    <img class="lazyload" data-src="images/blog/gaming-1.jpg"
-                                        src="images/blog/gaming-1.jpg" alt="">
+                                <a href="./blog-post" class="image">
+                                    <img class="lazyload" data-src="uploads/blog/blog-post-1-thumb.png" src="uploads/blog/blog-post-1-thumb.png" alt="">
                                 </a>
+
                                 <div class="content">
-                                    <p class="text-btn-uppercase text-secondary-2 text-white">13 August</p>
+                                    <p class="text-btn-uppercase text-secondary-2 text-white">13 Agosto</p>
+
                                     <h4 class="title fw-5">
-                                        <a class="link text-white" href="blog-detail.html">
-                                            How to Choose the Perfect Gaming
-                                            Accessories for Maximum Performance
+                                        <a class="link text-white" href="./blog-post">
+                                            How to Choose the Perfect Gaming Accessories for Maximum Performance
                                         </a>
                                     </h4>
                                 </div>
                             </div>
                         </div>
+
                         <div class="swiper-slide">
                             <div class="wg-blog style-abs hover-image wow fadeInUp" data-wow-delay="0s">
-                                <a href="blog-detail.html" class="image">
-                                    <img class="lazyload" data-src="images/blog/gaming-2.jpg"
-                                        src="images/blog/gaming-2.jpg" alt="">
+                                <a href="./blog-post" class="image">
+                                    <img class="lazyload" data-src="uploads/blog/blog-post-2-thumb.png" src="uploads/blog/blog-post-2-thumb.png" alt="">
                                 </a>
                                 <div class="content">
                                     <p class="text-btn-uppercase text-secondary-2 text-white">17 August</p>
                                     <div>
                                         <h4 class="title fw-5">
-                                            <a class="link text-white" href="blog-detail.html">
+                                            <a class="link text-white" href="./blog-post">
                                                 Essential Gaming Gear You Need to Enhance Your Setup and Dominate
                                             </a>
                                         </h4>
@@ -2608,52 +891,54 @@ include_once("_header.php");
                 </div>
             </div>
         </section>
-        <!-- /Collection -->
+        <!-- /Ultimas postagem do blog -->
 
         <!-- Iconbox -->
         <section class="flat-spacing">
             <div class="container">
-                <div dir="ltr" class="swiper tf-sw-iconbox" data-preview="4" data-tablet="3" data-mobile-sm="2"
-                    data-mobile="1" data-space-lg="30" data-space-md="30" data-space="15" data-pagination="1"
-                    data-pagination-sm="2" data-pagination-md="3" data-pagination-lg="4">
+                <div dir="ltr" class="swiper tf-sw-iconbox" data-preview="4" data-tablet="3" data-mobile-sm="2" data-mobile="1" data-space-lg="30" data-space-md="30" data-space="15" data-pagination="1" data-pagination-sm="2" data-pagination-md="3" data-pagination-lg="4">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="tf-icon-box style-2 type-2 type-column">
                                 <div class="icon-box"><span class="icon icon-return"></span></div>
                                 <div class="content">
-                                    <h6>14-Day Returns</h6>
-                                    <p class="text-secondary">Risk-free shopping with easy returns.</p>
+                                    <h6>Em até 14 dias</h6>
+                                    <p class="text-secondary">Compras sem riscos e devoluções fáceis.</p>
                                 </div>
                             </div>
                         </div>
+
                         <div class="swiper-slide">
                             <div class="tf-icon-box style-2 type-2 type-column">
                                 <div class="icon-box"><span class="icon icon-shipping"></span></div>
                                 <div class="content">
-                                    <h6>Free Shipping</h6>
-                                    <p class="text-secondary">Risk-free shopping with easy returns.</p>
+                                    <h6>Engrega</h6>
+                                    <p class="text-secondary">Entregamos em sua casa com toda proteção.</p>
                                 </div>
                             </div>
                         </div>
+
                         <div class="swiper-slide">
                             <div class="tf-icon-box style-2 type-2 type-column">
                                 <div class="icon-box"><span class="icon icon-headset"></span></div>
                                 <div class="content">
-                                    <h6>24/7 Support</h6>
-                                    <p class="text-secondary">24/7 support, always here just for you</p>
+                                    <h6>Suporte</h6>
+                                    <p class="text-secondary">Nossas atendentes estão sempre aqui para você!</p>
                                 </div>
                             </div>
                         </div>
+
                         <div class="swiper-slide">
                             <div class="tf-icon-box style-2 type-2 type-column">
                                 <div class="icon-box"><span class="icon icon-sealCheck"></span></div>
                                 <div class="content">
-                                    <h6>Member Discounts</h6>
-                                    <p class="text-secondary">Risk-free shopping with easy returns.</p>
+                                    <h6>Produtos de qualide</h6>
+                                    <p class="text-secondary">Trabalhamos com as melhores marcas do mercado.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    
                     <div class="sw-pagination-iconbox sw-dots type-circle justify-content-center"></div>
                 </div>
             </div>

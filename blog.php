@@ -33,7 +33,7 @@ include_once("_header.php");
 
                         <div class="wg-blog hover-image mb_40">
                             <div class="image">
-                                <img class="lazyload" data-src="images/blog/blog-default-1.jpg" src="images/blog/blog-default-1.jpg" alt="">
+                                <img class="lazyload" data-src="uploads/blog/blog-post-1-img.png" src="uploads/blog/blog-post-1-img.png" alt="">
                             </div>
 
                             <div class="content">
@@ -114,7 +114,7 @@ include_once("_header.php");
                                 <div>
                                     <div class="relatest-post-item hover-image">
                                         <div class="image">
-                                            <img class="lazyload" data-src="images/blog/sidebar-1.jpg" src="images/blog/sidebar-1.jpg" alt="">
+                                            <img class="lazyload" data-src="uploads/blog/blog-post-2-thumb.png" src="uploads/blog/blog-post-2-thumb.png" alt="">
                                         </div>
 
                                         <div class="content">
@@ -144,7 +144,7 @@ include_once("_header.php");
 
                                     <div class="relatest-post-item style-row hover-image">
                                         <div class="image">
-                                            <img class="lazyload" data-src="images/blog/sidebar-2.jpg" src="images/blog/sidebar-2.jpg" alt="">
+                                            <img class="lazyload" data-src="uploads/blog/blog-post-1-thumb2.png" src="uploads/blog/blog-post-1-thumb2.png" alt="">
                                         </div>
 
                                         <div class="content">

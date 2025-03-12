@@ -55,7 +55,7 @@ include_once("_header.php");
                                 </div>
 
                                 <div class="image">
-                                    <img class="lazyload" data-src="images/blog/blog-details-2.jpg" src="images/blog/blog-details-2.jpg" alt="">
+                                    <img class="lazyload" data-src="uploads/blog/blog-post-1-img.png" src="uploads/blog/blog-post-1-img.png" alt="">
                                 </div>
 
                                 <ul class="list-tags has-bg">
@@ -71,11 +71,11 @@ include_once("_header.php");
 
                                 <div class="group-image d-flex gap-20">
                                     <div>
-                                        <img src="images/blog/blog-details-3.jpg" alt="">
+                                        <img src="uploads/blog/blog-post-1-thumb.png" alt="">
                                     </div>
 
                                     <div>
-                                        <img src="images/blog/blog-details-4.jpg" alt="">
+                                        <img src="uploads/blog/blog-post-1-thumb.png" alt="">
                                     </div>
                                 </div>
 
@@ -175,7 +175,7 @@ include_once("_header.php");
                                 <div>
                                     <div class="relatest-post-item hover-image">
                                         <div class="image">
-                                            <img class="lazyload" data-src="images/blog/sidebar-1.jpg" src="images/blog/sidebar-1.jpg" alt="">
+                                            <img class="lazyload" data-src="uploads/blog/blog-post-2-thumb.png" src="uploads/blog/blog-post-2-thumb.png" alt="">
                                         </div>
 
                                         <div class="content">
@@ -206,7 +206,7 @@ include_once("_header.php");
                                     <?php for( $i = 0; $i < 3; $i++ ): ?>
                                     <div class="relatest-post-item style-row hover-image">
                                         <div class="image">
-                                            <img class="lazyload" data-src="images/blog/sidebar-2.jpg" src="images/blog/sidebar-2.jpg" alt="">
+                                            <img class="lazyload" data-src="uploads/blog/blog-post-2-thumb2.png" src="uploads/blog/blog-post-2-thumb2.png" alt="">
                                         </div>
 
                                         <div class="content">

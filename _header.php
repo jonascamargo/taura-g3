@@ -19,7 +19,6 @@
     <link rel="stylesheet" href="css/swiper-bundle.min.css">
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" type="text/css" href="css/styles.css" />
-    <link rel="stylesheet" href="css/brands.min.css">
 
     <!-- Favicon and Touch Icons  -->
     <link rel="shortcut icon" href="images/logo/favicon.png">
@@ -194,33 +193,7 @@
                     <div class="col-xl-4 col-md-4 col-3">
                         <div class="d-flex justify-content-end align-items-center gap-16 gap-xl-24">
 
-                            <form class="form-search d-xl-flex d-none position-relative">
-                                <fieldset class="text w-100">
-                                    <input type="text" placeholder="Busca rápida..." class="style-line-bottom"
-                                        name="text" tabindex="0" value="" aria-required="true" required="">
-                                </fieldset>
-
-                                <button class="" type="submit">
-                                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
-                                        <g clip-path="url(#clip0_19494_2214)">
-                                            <path
-                                                d="M10.5 18C14.6421 18 18 14.6421 18 10.5C18 6.35786 14.6421 3 10.5 3C6.35786 3 3 6.35786 3 10.5C3 14.6421 6.35786 18 10.5 18Z"
-                                                stroke="#181818" stroke-width="1.5" stroke-linecap="round"
-                                                stroke-linejoin="round" />
-                                            <path d="M15.8047 15.8037L21.0012 21.0003" stroke="#181818"
-                                                stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
-                                        </g>
-                                        <defs>
-                                            <clipPath id="clip0_19494_2214">
-                                                <rect width="24" height="24" fill="white" />
-                                            </clipPath>
-                                        </defs>
-                                    </svg>
-                                </button>
-                            </form>
-
-                            <ul class="nav-icon d-xl-none d-flex justify-content-end align-items-center">
+                            <ul class="nav-icon d-flex justify-content-end align-items-center">
                                 <li class="nav-search">
                                     <a href="#search" data-bs-toggle="modal" class="nav-icon-item">
                                         <svg class="icon" width="24" height="24" viewBox="0 0 24 24" fill="none"

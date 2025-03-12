@@ -1,7 +1,6 @@
 Dockerfile
 docker-compose.yml
 _BKP01
-images
 
 .htaccess
 index-bkp.html

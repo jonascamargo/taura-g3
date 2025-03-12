@@ -19,10 +19,11 @@
     <link rel="stylesheet" href="css/swiper-bundle.min.css">
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" type="text/css" href="css/styles.css" />
+    <link rel="stylesheet" href="css/brands.min.css">
 
     <!-- Favicon and Touch Icons  -->
     <link rel="shortcut icon" href="images/logo/favicon.png">
-    <link rel="apple-touch-icon-precomposed" href="images/logo/favicon.png">
+    <link rel="apple-touch-icon-precomposed" href="images/logo/favicon128.png">
 
     <title>G3 - Papelaria e Escritório</title>
 </head>
@@ -54,7 +55,7 @@
                         <div class="d-xl-flex align-items-xl-center gap-xl-60">
 
                             <a href="./" class="logo-header">
-                                <img src="images/logo/logo-2.svg" alt="logo" class="logo w-auto">
+                                <img src="images/logo/g3-logo-hor-full-preto_cores.svg" alt="logo: G3 suprimentos" class="logo">
                             </a>
 
                             <div class="d-none d-xl-block">
@@ -234,17 +235,10 @@
                             <span class="br-line type-vertical d-none d-sm-block bg-line"></span>
 
                             <ul class="nav-icon d-flex justify-content-end align-items-center">
-                                <li>
-                                    <a href="https://www.facebook.com" class="nav-icon-item"><i class="fa-brands fa-facebook"></i></a>
-                                </li>
-
-                                <li>
-                                    <a href="https://www.instagram.com" class="nav-icon-item"><i class="fa-brands fa-instagram"></i></a>
-                                </li>
-
-                                <li>
-                                    <a href="https://www.whatsapp.com" data-bs-toggle="modal" class="nav-icon-item"><i class="fa-brands fa-whatsapp"></i></a>
-                                </li>
+                                <li><a href="tel:555430352128" data-bs-toggle="modal" class="nav-icon-item"><i class="icon-smartphone"></i></a></li>
+                                <li><a href="http://wa.me/555430352128" data-bs-toggle="modal" class="nav-icon-item"><i class="fa-brands fa-whatsapp"></i></a></li>
+                                <li><a href="https://www.facebook.com/g3suprimentos/" class="nav-icon-item"><i class="icon-fb"></i></a></li>
+                                <li><a href="https://www.instagram.com/g3_papelariaeescritorio" class="nav-icon-item"><i class="icon-instagram2"></i></a></li>
                             </ul>
 
                         </div>

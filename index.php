@@ -6,89 +6,100 @@ include_once("_header.php");
          
         <!-- Slider -->
         <div class="tf-slideshow slider-default slider-effect-fade">
-            <div dir="ltr" class="swiper tf-sw-slideshow" data-preview="1" data-tablet="1" data-mobile="1"
-                data-centered="false" data-space="0" data-space-mb="0" data-loop="true" data-auto-play="false">
+            <div dir="ltr" class="swiper tf-sw-slideshow" data-preview="1" data-tablet="1" data-mobile="1" data-centered="false" data-space="0" data-space-mb="0" data-loop="true" data-auto-play="false">
                 <div class="swiper-wrapper">
                     <!-- Slide 1 -->
                     <div class="swiper-slide">
                         <div class="wrap-slider">
-                            <img src="images/slider/slider-gaming-1.jpg" data-src="images/slider/slider-gaming-1.jpg"
-                                alt="pickle-ball-slideshow" class="lazyload">
+                            <img src="images/slider/slider-gaming-1.jpg" data-src="images/slider/slider-gaming-1.jpg" alt="pickle-ball-slideshow" class="lazyload">
+
                             <div class="box-content type-2 type-3">
                                 <div class="content-slider">
-                                    <div class="box-title-slider">
 
+                                    <div class="box-title-slider">
                                         <p class="fade-item fade-item-1 fw-bold text-white title-display font-5">
-                                            Powerful Sound
+                                            Divirta-se
                                         </p>
+
                                         <p class="fade-item fade-item-2 body-text-1 text-white">
-                                            Fill any space with immersive, high-quality audio.
+                                            Jogos educativos e muito divertidos para a familia toda!
                                         </p>
                                     </div>
+
                                     <div class="fade-item fade-item-3 box-btn-slider">
                                         <a href="shop-default-grid.html" class="tf-btn btn-fill btn-white">
-                                            <span class="text">Shop now</span>
+                                            <span class="text">Brinquedos</span>
                                             <i class="icon icon-arrowUpRight"></i>
                                         </a>
                                     </div>
+                                    
                                 </div>
                             </div>
                         </div>
                     </div>
+
                     <!-- Slide 2 -->
                     <div class="swiper-slide">
                         <div class="wrap-slider">
-                            <img src="images/slider/slider-gaming-2.jpg" data-src="images/slider/slider-gaming-2.jpg"
-                                alt="pickle-ball-slideshow" class="lazyload">
+                            <img src="images/slider/slider-gaming-2.jpg" data-src="images/slider/slider-gaming-2.jpg" alt="pickle-ball-slideshow" class="lazyload">
+
                             <div class="box-content type-2 type-3">
                                 <div class="content-slider">
-                                    <div class="box-title-slider">
 
+                                    <div class="box-title-slider">
                                         <p class="fade-item fade-item-1 fw-bold text-white title-display font-5">
-                                            Seamless Listening
+                                            Qualidade em cada folha
                                         </p>
+
                                         <p class="fade-item fade-item-2 body-text-1 text-white">
-                                            Enjoy effortless connectivity and crystal-clear audio on the go.
+                                            Confira nossa lista das principais marcas para material escolar 
                                         </p>
                                     </div>
+
                                     <div class="fade-item fade-item-3 box-btn-slider">
                                         <a href="shop-default-grid.html" class="tf-btn btn-fill btn-white">
-                                            <span class="text">Explore Collection</span>
+                                            <span class="text">Material escolar</span>
                                             <i class="icon icon-arrowUpRight"></i>
                                         </a>
                                     </div>
+
                                 </div>
                             </div>
                         </div>
                     </div>
+
                     <!-- Slide 3 -->
                     <div class="swiper-slide">
                         <div class="wrap-slider">
-                            <img src="images/slider/slider-gaming-3.jpg" data-src="images/slider/slider-gaming-3.jpg"
-                                alt="pickle-ball-slideshow" class="lazyload">
+                            <img src="images/slider/slider-gaming-3.jpg" data-src="images/slider/slider-gaming-3.jpg" alt="pickle-ball-slideshow" class="lazyload">
+
                             <div class="box-content type-2 type-3">
                                 <div class="content-slider">
-                                    <div class="box-title-slider">
 
+                                    <div class="box-title-slider">
                                         <p class="fade-item fade-item-1 fw-bold text-white title-display font-5">
-                                            Immerse Yourself
+                                            Conforto para trabalhar
                                         </p>
+
                                         <p class="fade-item fade-item-2 body-text-1 text-white">
-                                            Experience rich, high-fidelity sound for music, gaming, and calls.
+                                            Muito conforto na nova linha de caderas para seu escritorio
                                         </p>
                                     </div>
+
                                     <div class="fade-item fade-item-3 box-btn-slider">
                                         <a href="shop-default-grid.html" class="tf-btn btn-fill btn-white">
-                                            <span class="text">Explore Collection</span>
+                                            <span class="text">Cadeiras</span>
                                             <i class="icon icon-arrowUpRight"></i>
                                         </a>
                                     </div>
+
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
             <div class="wrap-pagination stype-space-3">
                 <div class="container">
                     <div class="sw-dots sw-pagination-slider type-circle white-circle justify-content-center"></div>
@@ -196,101 +207,75 @@ include_once("_header.php");
             <div class="container">
                 <div class="heading-section-4 wow fadeInUp">
                     <div class="heading-left">
-                        <h3 class="heading font-5 fw-bold">Best Sellers</h3>
+                        <h3 class="heading font-5 fw-bold">Novos produtos</h3>
+
                         <ul class="tab-product style-2 justify-content-sm-center mb-0" role="tablist">
                             <li class="nav-tab-item" role="presentation">
                                 <a href="#headphone" class="active " data-bs-toggle="tab">Headphone</a>
                             </li>
+
                             <li class="text-line d-none d-sm-block">/</li>
+
                             <li class="nav-tab-item" role="presentation">
-                                <a href="#mouse" data-bs-toggle="tab" class="">Mouse</a>
+                                <a href="#mouse" data-bs-toggle="tab" class="">Escritório</a>
                             </li>
+
                             <li class="text-line d-none d-sm-block">/</li>
+
                             <li class="nav-tab-item" role="presentation">
-                                <a href="#keyboard" data-bs-toggle="tab" class="">Keyboard</a>
+                                <a href="#keyboard" data-bs-toggle="tab" class="">Papelaria</a>
                             </li>
+
                             <li class="text-line d-none d-sm-block">/</li>
+
                             <li class="nav-tab-item" role="presentation">
-                                <a href="#mousepad" data-bs-toggle="tab" class="">Mousepad</a>
+                                <a href="#mousepad" data-bs-toggle="tab" class="">Brinquedos</a>
                             </li>
+
                             <li class="text-line d-none d-sm-block">/</li>
+
                             <li class="nav-tab-item" role="presentation">
-                                <a href="#cable" data-bs-toggle="tab" class="">Cables</a>
-                            </li>
-                            <li class="text-line d-none d-sm-block">/</li>
-                            <li class="nav-tab-item" role="presentation">
-                                <a href="#networking" data-bs-toggle="tab" class="">Networking</a>
+                                <a href="#cable" data-bs-toggle="tab" class="">Cadeiras</a>
                             </li>
                         </ul>
                     </div>
-                    <a href="shop-collection.html" class="btn-line">View All Products</a>
+
+                    <a href="./produtos" class="btn-line">Confira nossos produtos</a>
                 </div>
+
                 <div class="flat-animate-tab">
                     <div class="tab-content">
                         <div class="tab-pane active show" id="headphone" role="tabpanel">
-                            <div dir="ltr" class="swiper tf-sw-latest" data-preview="4" data-tablet="3" data-mobile="2"
-                                data-space-lg="30" data-space-md="30" data-space="15" data-pagination="1"
-                                data-pagination-md="1" data-pagination-lg="1">
+                            <div dir="ltr" class="swiper tf-sw-latest" data-preview="4" data-tablet="3" data-mobile="2" data-space-lg="30" data-space-md="30" data-space="15" data-pagination="1" data-pagination-md="1" data-pagination-lg="1">
                                 <div class="swiper-wrapper">
+
                                     <!-- item 1 -->
                                     <div class="swiper-slide">
                                         <div class="card-product wow fadeInUp">
                                             <div class="card-product-wrapper aspect-ratio-0">
                                                 <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-1.jpg"
-                                                        src="images/products/gaming/product-1.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-1.jpg"
-                                                        src="images/products/gaming/product-1.jpg" alt="image-product">
+                                                    <img class="lazyload img-product" data-src="images/products/gaming/product-1.jpg" src="images/products/gaming/product-1.jpg" alt="image-product">
+                                                    <img class="lazyload img-hover" data-src="images/products/gaming/product-1.jpg" src="images/products/gaming/product-1.jpg" alt="image-product">
                                                 </a>
 
                                                 <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
-                                                    <a href="#quickView" data-bs-toggle="modal"
-                                                        class="box-icon quickview tf-btn-loading">
+                                                    <a href="#quickView" data-bs-toggle="modal" class="box-icon quickview tf-btn-loading">
                                                         <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
+                                                        <span class="tooltip">Mais detalhes</span>
                                                     </a>
                                                 </div>
+
                                                 <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
+                                                    <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Add To cart</a>
                                                 </div>
                                             </div>
+
                                             <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">UwU Mini Keyboard</a>
-                                                <span class="price">$79.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-light-blue"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-1.jpg"
-                                                            src="images/products/gaming/product-1.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-blue-2"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-1.jpg"
-                                                            src="images/products/gaming/product-1.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
+                                                <a href="product-detail.html" class="title link">Nome do produto</a>
                                             </div>
                                         </div>
                                     </div>
+
                                     <!-- item 2 -->
                                     <div class="swiper-slide">
                                         <div class="card-product wow fadeInUp">
@@ -574,10 +559,13 @@ include_once("_header.php");
                                             </div>
                                         </div>
                                     </div>
+
                                 </div>
+
                                 <div class="sw-pagination-latest sw-dots type-circle justify-content-center"></div>
                             </div>
                         </div>
+
                         <div class="tab-pane" id="mouse" role="tabpanel">
                             <div dir="ltr" class="swiper tf-sw-latest" data-preview="4" data-tablet="3" data-mobile="2"
                                 data-space-lg="30" data-space-md="30" data-space="15" data-pagination="1"
@@ -792,143 +780,11 @@ include_once("_header.php");
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- item 3 -->
-                                    <div class="swiper-slide">
-                                        <div class="card-product wow fadeInUp">
-                                            <div class="card-product-wrapper aspect-ratio-0">
-                                                <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-3.jpg"
-                                                        src="images/products/gaming/product-3.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-3.jpg"
-                                                        src="images/products/gaming/product-3.jpg" alt="image-product">
-                                                </a>
-                                                <div class="on-sale-wrap"><span class="on-sale-item">-25%</span></div>
-                                                <div class="variant-wrap countdown-wrap">
-                                                    <div class="variant-box style-1">
-                                                        <div class="js-countdown" data-timer="1007500"
-                                                            data-labels="d :,h :,m :,s"></div>
-                                                    </div>
-                                                </div>
-                                                <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
-                                                    <a href="#quickView" data-bs-toggle="modal"
-                                                        class="box-icon quickview tf-btn-loading">
-                                                        <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
-                                                    </a>
-                                                </div>
-                                                <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
-                                                </div>
-                                            </div>
-                                            <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">Zero IEM Headphones -
-                                                    Blue</a>
-                                                <span class="price"><span class="old-price">$98.00</span> $79.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-light-orange"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-3.jpg"
-                                                            src="images/products/gaming/product-3.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-grey"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-3.jpg"
-                                                            src="images/products/gaming/product-3.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- item 3 -->
-                                    <div class="swiper-slide">
-                                        <div class="card-product wow fadeInUp">
-                                            <div class="card-product-wrapper aspect-ratio-0">
-                                                <a href="product-detail.html" class="product-img">
-                                                    <img class="lazyload img-product"
-                                                        data-src="images/products/gaming/product-4.jpg"
-                                                        src="images/products/gaming/product-4.jpg" alt="image-product">
-                                                    <img class="lazyload img-hover"
-                                                        data-src="images/products/gaming/product-4.jpg"
-                                                        src="images/products/gaming/product-4.jpg" alt="image-product">
-                                                </a>
-
-                                                <div class="list-product-btn">
-                                                    <a href="javascript:void(0);"
-                                                        class="box-icon wishlist btn-icon-action">
-                                                        <span class="icon icon-heart"></span>
-                                                        <span class="tooltip">Wishlist</span>
-                                                    </a>
-                                                    <a href="#compare" data-bs-toggle="offcanvas"
-                                                        aria-controls="compare"
-                                                        class="box-icon compare btn-icon-action">
-                                                        <span class="icon icon-gitDiff"></span>
-                                                        <span class="tooltip">Compare</span>
-                                                    </a>
-                                                    <a href="#quickView" data-bs-toggle="modal"
-                                                        class="box-icon quickview tf-btn-loading">
-                                                        <span class="icon icon-eye"></span>
-                                                        <span class="tooltip">Quick View</span>
-                                                    </a>
-                                                </div>
-                                                <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To
-                                                        cart</a>
-                                                </div>
-                                            </div>
-                                            <div class="card-product-info">
-                                                <a href="product-detail.html" class="title link">RØDE NT-USB Mini
-                                                    Mikrofon</a>
-                                                <span class="price"> $69.99</span>
-                                                <ul class="list-color-product">
-                                                    <li class="list-color-item color-swatch active line">
-                                                        <span class="swatch-value bg-dark-grey"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-4.jpg"
-                                                            src="images/products/gaming/product-4.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-light-pink"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-4.jpg"
-                                                            src="images/products/gaming/product-4.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                    <li class="list-color-item color-swatch">
-                                                        <span class="swatch-value bg-dark-grey-2"></span>
-                                                        <img class="lazyload"
-                                                            data-src="images/products/gaming/product-4.jpg"
-                                                            src="images/products/gaming/product-4.jpg"
-                                                            alt="image-product">
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
                                 </div>
                                 <div class="sw-pagination-latest sw-dots type-circle justify-content-center"></div>
                             </div>
                         </div>
+
                         <div class="tab-pane" id="keyboard" role="tabpanel">
                             <div dir="ltr" class="swiper tf-sw-latest" data-preview="4" data-tablet="3" data-mobile="2"
                                 data-space-lg="30" data-space-md="30" data-space="15" data-pagination="1"
@@ -1280,6 +1136,7 @@ include_once("_header.php");
                                 <div class="sw-pagination-latest sw-dots type-circle justify-content-center"></div>
                             </div>
                         </div>
+
                         <div class="tab-pane" id="mousepad" role="tabpanel">
                             <div dir="ltr" class="swiper tf-sw-latest" data-preview="4" data-tablet="3" data-mobile="2"
                                 data-space-lg="30" data-space-md="30" data-space="15" data-pagination="1"
@@ -1631,6 +1488,7 @@ include_once("_header.php");
                                 <div class="sw-pagination-latest sw-dots type-circle justify-content-center"></div>
                             </div>
                         </div>
+
                         <div class="tab-pane" id="cable" role="tabpanel">
                             <div dir="ltr" class="swiper tf-sw-latest" data-preview="4" data-tablet="3" data-mobile="2"
                                 data-space-lg="30" data-space-md="30" data-space="15" data-pagination="1"
@@ -1982,6 +1840,7 @@ include_once("_header.php");
                                 <div class="sw-pagination-latest sw-dots type-circle justify-content-center"></div>
                             </div>
                         </div>
+
                         <div class="tab-pane" id="networking" role="tabpanel">
                             <div dir="ltr" class="swiper tf-sw-latest" data-preview="4" data-tablet="3" data-mobile="2"
                                 data-space-lg="30" data-space-md="30" data-space="15" data-pagination="1"
@@ -2806,8 +2665,8 @@ include_once("_header.php");
     </div>
     <!-- /wrapper -->
     
-    
     <?php include_once('_menuMobile.php'); ?>
 
+    <?php include_once('_modalFind.php'); ?>
     
     <?php include_once('_scripts.php'); ?>

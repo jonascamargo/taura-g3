@@ -9,7 +9,7 @@
                                 <div class="footer-infor">
                                     <div class="footer-logo">
                                         <a href="index.html">
-                                            <img src="images/logo/logo-white.svg" alt="">
+                                            <img src="images/logo/g3-logo-hor-ful-branco_coresl.svg" alt="logo: G3 suprimentos">
                                         </a>
                                     </div>
 

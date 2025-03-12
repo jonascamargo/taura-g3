@@ -17934,6 +17934,11 @@ ul.list-text.type-number {
   align-items: flex-start !important;
 }
 
+.sub-menu.mega-menu .container .row {
+  gap: 40px 0;
+}
+
+
 @keyframes slide-har-reverse {
   0% {
     -webkit-transform: translateX(0%);

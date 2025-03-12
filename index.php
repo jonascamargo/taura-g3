@@ -112,26 +112,24 @@ include_once("_header.php");
         <section class="flat-spacing">
             <div class="container">
                 <div class="tf-grid-layout md-col-2">
+
                     <div class="collection-default abs-left-bottom type-xl radius-20 hover-img wow fadeInUp"
                         data-wow-delay="0s">
                         <a class="img-style">
-                            <img class="lazyload" data-src="images/collections/grid-cls/gaming-1.jpg"
-                                src="images/collections/grid-cls/gaming-1.jpg" alt="banner-cls">
+                            <img class="lazyload" data-src="uploads/gaming-1.jpg" src="uploads/gaming-1.jpg" alt="banner-cls">
                         </a>
+
                         <div class="content text-start ">
                             <div class="box-title">
-                                <p class="tag text-btn-uppercase text-white">
-                                    Accessories
-                                </p>
+                                <p class="tag text-btn-uppercase text-white">Accessories</p>
+
                                 <h3 class="title">
-                                    <a href="./produtos" class="link text-white fw-bold font-5">
-                                        Ultimate Audio <br> Experience
-                                    </a>
+                                    <a href="./produtos" class="link text-white fw-bold font-5">Ultimate Audio <br> Experience</a>
                                 </h3>
-                                <p class="text-white body-text-1">
-                                    Clear sound, all-day comfort.
-                                </p>
+
+                                <p class="text-white body-text-1">Clear sound, all-day comfort.</p>
                             </div>
+
                             <div class="box-btn">
                                 <a href="./produtos" class="btn-line style-white has-icon">
                                     Shop Now
@@ -140,26 +138,23 @@ include_once("_header.php");
                             </div>
                         </div>
                     </div>
-                    <div class="collection-default abs-left-bottom type-xl radius-20 hover-img wow fadeInUp"
-                        data-wow-delay="0s">
+
+                    <div class="collection-default abs-left-bottom type-xl radius-20 hover-img wow fadeInUp" data-wow-delay="0s">
                         <a class="img-style">
-                            <img class="lazyload" data-src="images/collections/grid-cls/gaming-2.jpg"
-                                src="images/collections/grid-cls/gaming-2.jpg" alt="banner-cls">
+                            <img class="lazyload" data-src="uploads/gaming-1.jpg" src="uploads/gaming-1.jpg" alt="banner-cls">
                         </a>
+
                         <div class="content text-start ">
                             <div class="box-title">
-                                <p class="tag text-btn-uppercase text-white">
-                                    Accessories
-                                </p>
+                                <p class="tag text-btn-uppercase text-white">Accessories</p>
+
                                 <h3 class="title">
-                                    <a href="./produtos" class="link text-white fw-bold font-5">
-                                        Essential Style <br> Accessories
-                                    </a>
+                                    <a href="./produtos" class="link text-white fw-bold font-5">Essential Style <br> Accessories</a>
                                 </h3>
-                                <p class="text-white body-text-1">
-                                    Style meets functionality.
-                                </p>
+
+                                <p class="text-white body-text-1">Style meets functionality.</p>
                             </div>
+
                             <div class="box-btn">
                                 <a href="./produtos" class="btn-line style-white has-icon">
                                     Shop Now
@@ -168,35 +163,34 @@ include_once("_header.php");
                             </div>
                         </div>
                     </div>
-                    <div class="wd-load collection-default abs-left-center type-xl radius-20 hover-img wow fadeInUp"
-                        data-wow-delay="0s">
+
+                    <div class="wd-load collection-default abs-left-center type-xl radius-20 hover-img wow fadeInUp" data-wow-delay="0s">
                         <a class="img-style">
-                            <img class="lazyload" data-src="images/collections/grid-cls/gaming-3.jpg"
-                                src="images/collections/grid-cls/gaming-3.jpg" alt="banner-cls">
+                            <img class="lazyload" data-src="uploads/gaming-3.jpg" src="uploads/gaming-3.jpg" alt="banner-cls">
                         </a>
+
                         <div class="content text-start ">
                             <div class="box-title">
-                                <p class="tag text-white body-text fw-semibold">
-                                    ROG GAMING MOUSE
-                                </p>
+                                <p class="tag text-white body-text fw-semibold">ROG GAMING MOUSE</p>
+
                                 <h1 class="title">
-                                    <a href="./produtos" class="link text-white fw-bold font-5">
-                                        Precision at Your <br> Fingertips
-                                    </a>
+                                    <a href="./produtos" class="link text-white fw-bold font-5">Precision at Your <br> Fingertips</a>
                                 </h1>
+
                                 <p class="text-white body-text-1">
                                     Unleash Speed, Accuracy, and Control for the <br> Ultimate Gaming Edge!
                                 </p>
                             </div>
+
                             <div class="box-btn">
                                 <a href="./produtos" class="tf-btn btn-fill btn-white btn-md">
                                     <span class="text">Shop now</span>
                                     <i class="icon icon-arrowUpRight"></i>
                                 </a>
-
                             </div>
                         </div>
                     </div>
+
                 </div>
             </div>
         </section>
@@ -254,7 +248,7 @@ include_once("_header.php");
                                                 </div>
 
                                                 <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Add To cart</a>
+                                                    <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Faça seu pedido</a>
                                                 </div>
                                             </div>
 
@@ -273,98 +267,8 @@ include_once("_header.php");
                                                     <img class="lazyload img-hover" data-src="uploads/produtos/produto-2-thumb.png" src="uploads/produtos/produto-2-thumb.png" alt="image-product">
                                                 </a>
 
-                                                <div class="on-sale-wrap"><span class="on-sale-item">-25%</span></div>
+                                                <div class="on-sale-wrap"><span class="on-sale-item">Em promoção</span></div>
                                                 
-                                                <div class="marquee-product bg-main">
-                                                    <div class="marquee-wrapper">
-                                                        <div class="initial-child-container">
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot Sale 25% OFF</p>
-                                                            </div>
-
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot Sale 25% OFF</p>
-                                                            </div>
-
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot Sale 25% OFF</p>
-                                                            </div>
-                                                            
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot Sale 25% OFF</p>
-                                                            </div>
-
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot Sale 25% OFF</p>
-                                                            </div>
-
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="marquee-wrapper">
-                                                        <div class="initial-child-container">
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
                                                 <div class="list-product-btn">
                                                     <a href="#quickView" data-bs-toggle="modal"
                                                         class="box-icon quickview tf-btn-loading">
@@ -374,7 +278,7 @@ include_once("_header.php");
                                                 </div>
 
                                                 <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Add To cart</a>
+                                                    <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Faça seu pedido</a>
                                                 </div>
                                             </div>
 
@@ -404,7 +308,7 @@ include_once("_header.php");
 
                                                 <div class="list-btn-main">
                                                     <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To cart</a>
+                                                        class="btn-main-product">Faça seu pedido</a>
                                                 </div>
                                             </div>
 
@@ -432,7 +336,7 @@ include_once("_header.php");
                                                 </div>
 
                                                 <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Add To cart</a>
+                                                    <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Faça seu pedido</a>
                                                 </div>
                                             </div>
 
@@ -472,7 +376,7 @@ include_once("_header.php");
 
                                                 <div class="list-btn-main">
                                                     <a href="#shoppingCart" data-bs-toggle="modal"
-                                                        class="btn-main-product">Add To cart</a>
+                                                        class="btn-main-product">Faça seu pedido</a>
                                                 </div>
                                             </div>
 
@@ -500,7 +404,7 @@ include_once("_header.php");
                                                 </div>
 
                                                 <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Add To cart</a>
+                                                    <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Faça seu pedido</a>
                                                 </div>
                                             </div>
 
@@ -537,7 +441,7 @@ include_once("_header.php");
                                                 </div>
 
                                                 <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Add To cart</a>
+                                                    <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Faça seu pedido</a>
                                                 </div>
                                             </div>
 
@@ -556,98 +460,8 @@ include_once("_header.php");
                                                     <img class="lazyload img-hover" data-src="uploads/produtos/produto-2-thumb.png" src="uploads/produtos/produto-2-thumb.png" alt="image-product">
                                                 </a>
 
-                                                <div class="on-sale-wrap"><span class="on-sale-item">-25%</span></div>
+                                                <div class="on-sale-wrap"><span class="on-sale-item">Em promoção</span></div>
                                                 
-                                                <div class="marquee-product bg-main">
-                                                    <div class="marquee-wrapper">
-                                                        <div class="initial-child-container">
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot Sale 25% OFF</p>
-                                                            </div>
-
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot Sale 25% OFF</p>
-                                                            </div>
-
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot Sale 25% OFF</p>
-                                                            </div>
-                                                            
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot Sale 25% OFF</p>
-                                                            </div>
-
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot Sale 25% OFF</p>
-                                                            </div>
-
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="marquee-wrapper">
-                                                        <div class="initial-child-container">
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <p class="font-2 text-btn-uppercase fw-6 text-white">Hot
-                                                                    Sale 25%
-                                                                    OFF</p>
-                                                            </div>
-                                                            <div class="marquee-child-item">
-                                                                <span class="icon icon-lightning text-critical"></span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
                                                 <div class="list-product-btn">
                                                     <a href="#quickView" data-bs-toggle="modal"
                                                         class="box-icon quickview tf-btn-loading">
@@ -657,7 +471,7 @@ include_once("_header.php");
                                                 </div>
 
                                                 <div class="list-btn-main">
-                                                    <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Add To cart</a>
+                                                    <a href="#shoppingCart" data-bs-toggle="modal" class="btn-main-product">Faça seu pedido</a>
                                                 </div>
                                             </div>
 
@@ -687,91 +501,67 @@ include_once("_header.php");
                     data-space-lg="30" data-space-md="20" data-space="15" data-pagination="1" data-pagination-md="2"
                     data-pagination-lg="3">
                     <div class="swiper-wrapper">
+
+                        <?php
+                        $categorias = [
+                            [
+                                "nome" => "Escritorio",
+                                "imagem" => "uploads/produtos/categoria-1.png",
+                                "link" => "./produtos"
+                            ],
+                            [
+                                "nome" => "Papelaria",
+                                "imagem" => "uploads/produtos/categoria-2.png",
+                                "link" => "./produtos"
+                            ],
+                            [
+                                "nome" => "Suprimentos",
+                                "imagem" => "uploads/produtos/categoria-3.png",
+                                "link" => "./produtos"
+                            ],
+                            [
+                                "nome" => "Material escolar",
+                                "imagem" => "uploads/produtos/categoria-4.png",
+                                "link" => "./produtos"
+                            ],
+                            [
+                                "nome" => "Brinquedos",
+                                "imagem" => "uploads/produtos/categoria-5.png",
+                                "link" => "./produtos"
+                            ],
+                        ];
+
+                        foreach ( $categorias as $categoria ):
+                        ?>
                         <!-- item 1 -->
                         <div class="swiper-slide">
-                            <div class="collection-default hover-button abs-left-bottom type-2 hover-img wow fadeInUp"
-                                data-wow-delay="0s">
+                            <div class="collection-default hover-button abs-left-bottom type-2 hover-img wow fadeInUp" data-wow-delay="0s">
                                 <a class="img-style">
-                                    <img class="lazyload" data-src="images/collections/list-cls/gaming-1.jpg"
-                                        src="images/collections/list-cls/gaming-1.jpg" alt="banner-cls">
+                                    <img class="lazyload" data-src="<?= $categoria['imagem'] ?>" src="<?= $categoria['imagem'] ?>" alt="banner-cls">
                                 </a>
+
                                 <div class="content text-start ">
                                     <div class="box-title">
                                         <h5 class="title">
-                                            <a href="./produtos" class="link text-white fw-bold">
-                                                Controller
-                                            </a>
+                                            <a href="<?= $categoria['link'] ?>" class="link text-white fw-bold"><?= $categoria['nome'] ?></a>
                                         </h5>
-                                        <p class="text-white body-text">
-                                            Seamless control, ultimate performance.
-                                        </p>
+
+                                        <p class="text-white body-text">Seamless control, ultimate performance.</p>
                                     </div>
+
                                     <div class="box-btn">
-                                        <a href="./produtos" class="tf-btn btn-fill btn-white btn-md">
-                                            <span class="text">Shop now</span>
+                                        <a href="<?= $categoria['link'] ?>" class="tf-btn btn-fill btn-white btn-md">
+                                            <span class="text">Ver produtos</span>
                                             <i class="icon icon-arrowUpRight"></i>
                                         </a>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <!-- item 2 -->
-                        <div class="swiper-slide">
-                            <div class="collection-default hover-button abs-left-bottom type-2 hover-img wow fadeInUp"
-                                data-wow-delay="0s">
-                                <a class="img-style">
-                                    <img class="lazyload" data-src="images/collections/list-cls/gaming-2.jpg"
-                                        src="images/collections/list-cls/gaming-2.jpg" alt="banner-cls">
-                                </a>
-                                <div class="content text-start ">
-                                    <div class="box-title">
-                                        <h5 class="title">
-                                            <a href="./produtos" class="link text-white fw-bold">
-                                                Wii Controller
-                                            </a>
-                                        </h5>
-                                        <p class="text-white body-text">
-                                            Intuitive motion, effortless gaming.
-                                        </p>
-                                    </div>
-                                    <div class="box-btn">
-                                        <a href="./produtos" class="tf-btn btn-fill btn-white btn-md">
-                                            <span class="text">Shop now</span>
-                                            <i class="icon icon-arrowUpRight"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- item 2 -->
-                        <div class="swiper-slide">
-                            <div class="collection-default hover-button abs-left-bottom type-2 hover-img wow fadeInUp"
-                                data-wow-delay="0s">
-                                <a class="img-style">
-                                    <img class="lazyload" data-src="images/collections/list-cls/gaming-3.jpg"
-                                        src="images/collections/list-cls/gaming-3.jpg" alt="banner-cls">
-                                </a>
-                                <div class="content text-start ">
-                                    <div class="box-title">
-                                        <h5 class="title">
-                                            <a href="./produtos" class="link text-white fw-bold">
-                                                Earbuds
-                                            </a>
-                                        </h5>
-                                        <p class="text-white body-text">
-                                            Clear sound, all-day comfort.
-                                        </p>
-                                    </div>
-                                    <div class="box-btn">
-                                        <a href="./produtos" class="tf-btn btn-fill btn-white btn-md">
-                                            <span class="text">Shop now</span>
-                                            <i class="icon icon-arrowUpRight"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        <?php endforeach; ?>
+
                     </div>
+
                     <div class="sw-pagination-recent sw-dots type-circle justify-content-center"></div>
                 </div>
             </div>
@@ -949,6 +739,8 @@ include_once("_header.php");
 
     </div>
     <!-- /wrapper -->
+
+    <?php include_once('_produtoPreview.php'); ?>
     
     <?php include_once('_menuMobile.php'); ?>
 

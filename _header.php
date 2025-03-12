@@ -80,14 +80,20 @@
                                                         <div class="col-lg-3">
                                                             <div class="mega-menu-item">
 
-                                                                <div class="menu-heading">Escritório</div>
+                                                                <!-- <div class="menu-heading">Escritório</div> -->
+                                                                <!-- clicando na categoria vai pra pagina de produtos ja com o filtro pela categoria clicada -->
+                                                                <div class="menu-heading"><a href="./produtos">Escritório</a></div>
 
                                                                 <ul class="menu-list">
+                                                                    <!-- pensei em manter no maximo 5 itens nessa lista -->
                                                                     <li><a href="./produtos" class="menu-link-text">Canetas</a></li>
                                                                     <li><a href="./produtos" class="menu-link-text">Marcados Texto</a></li>
                                                                     <li><a href="./produtos" class="menu-link-text">Borrachas</a></li>
                                                                     <li><a href="./produtos" class="menu-link-text">Lapiseiras</a></li>
                                                                     <li><a href="./produtos" class="menu-link-text">Lápis</a></li>
+
+                                                                    <!-- ou um link final para ir pra lista dos itens da categoria -->
+                                                                    <!-- <li><a href="./produtos" class="menu-link-text">Todos</a></li> -->
                                                                 </ul>
 
                                                             </div>

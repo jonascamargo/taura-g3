@@ -111,87 +111,38 @@ include_once("_header.php");
         <!-- Grid Collection -->
         <section class="flat-spacing">
             <div class="container">
+
                 <div class="tf-grid-layout md-col-2">
-
-                    <div class="collection-default abs-left-bottom type-xl radius-20 hover-img wow fadeInUp"
-                        data-wow-delay="0s">
-                        <a class="img-style">
-                            <img class="lazyload" data-src="uploads/gaming-1.jpg" src="uploads/gaming-1.jpg" alt="banner-cls">
-                        </a>
-
-                        <div class="content text-start ">
-                            <div class="box-title">
-                                <p class="tag text-btn-uppercase text-white">Accessories</p>
-
-                                <h3 class="title">
-                                    <a href="./produtos" class="link text-white fw-bold font-5">Ultimate Audio <br> Experience</a>
-                                </h3>
-
-                                <p class="text-white body-text-1">Clear sound, all-day comfort.</p>
-                            </div>
-
-                            <div class="box-btn">
-                                <a href="./produtos" class="btn-line style-white has-icon">
-                                    Shop Now
-                                    <i class="icon icon-arrowUpRight"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="collection-default abs-left-bottom type-xl radius-20 hover-img wow fadeInUp" data-wow-delay="0s">
-                        <a class="img-style">
-                            <img class="lazyload" data-src="uploads/gaming-1.jpg" src="uploads/gaming-1.jpg" alt="banner-cls">
-                        </a>
-
-                        <div class="content text-start ">
-                            <div class="box-title">
-                                <p class="tag text-btn-uppercase text-white">Accessories</p>
-
-                                <h3 class="title">
-                                    <a href="./produtos" class="link text-white fw-bold font-5">Essential Style <br> Accessories</a>
-                                </h3>
-
-                                <p class="text-white body-text-1">Style meets functionality.</p>
-                            </div>
-
-                            <div class="box-btn">
-                                <a href="./produtos" class="btn-line style-white has-icon">
-                                    Shop Now
-                                    <i class="icon icon-arrowUpRight"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-
                     <div class="wd-load collection-default abs-left-center type-xl radius-20 hover-img wow fadeInUp" data-wow-delay="0s">
+
                         <a class="img-style">
-                            <img class="lazyload" data-src="uploads/gaming-3.jpg" src="uploads/gaming-3.jpg" alt="banner-cls">
+                            <img class="lazyload" data-src="uploads/banner/banner-promo-toner2.png" src="uploads/banner/banner-promo-toner2.png" alt="banner-cls">
                         </a>
 
                         <div class="content text-start ">
                             <div class="box-title">
-                                <p class="tag text-white body-text fw-semibold">ROG GAMING MOUSE</p>
+                                <p class="tag text-white body-text fw-semibold">SUPRIMENTOS</p>
 
                                 <h1 class="title">
-                                    <a href="./produtos" class="link text-white fw-bold font-5">Precision at Your <br> Fingertips</a>
+                                    <a href="./produtos" class="link text-white fw-bold font-5">Oferta Imperdível<br>Toners e Cartuchos</a>
                                 </h1>
 
                                 <p class="text-white body-text-1">
-                                    Unleash Speed, Accuracy, and Control for the <br> Ultimate Gaming Edge!
+                                    Impressões de qualidade por menos!<br>Entrega grátis em Farroupilha!
                                 </p>
                             </div>
 
                             <div class="box-btn">
                                 <a href="./produtos" class="tf-btn btn-fill btn-white btn-md">
-                                    <span class="text">Shop now</span>
+                                    <span class="text">Aproveite agora</span>
                                     <i class="icon icon-arrowUpRight"></i>
                                 </a>
                             </div>
                         </div>
-                    </div>
 
+                    </div>
                 </div>
+
             </div>
         </section>
         <!-- /Grid Collection -->
@@ -641,6 +592,43 @@ include_once("_header.php");
 
                 <div class="swiper tf-sw-partner" data-preview="2" data-tablet="2" data-mobile="1" data-space-lg="30" data-space-md="30" data-space="15" data-pagination="1" data-pagination-md="1" data-pagination-lg="1">
                     <div class="swiper-wrapper">
+
+                        <div class="swiper-slide">
+                            <div class="wg-blog style-abs hover-image wow fadeInUp" data-wow-delay="0s">
+                                <a href="./blog-post" class="image">
+                                    <img class="lazyload" data-src="uploads/blog/blog-post-1-thumb.png" src="uploads/blog/blog-post-1-thumb.png" alt="">
+                                </a>
+
+                                <div class="content">
+                                    <p class="text-btn-uppercase text-secondary-2 text-white">13 Agosto</p>
+
+                                    <h4 class="title fw-5">
+                                        <a class="link text-white" href="./blog-post">
+                                            How to Choose the Perfect Gaming Accessories for Maximum Performance
+                                        </a>
+                                    </h4>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="wg-blog style-abs hover-image wow fadeInUp" data-wow-delay="0s">
+                                <a href="./blog-post" class="image">
+                                    <img class="lazyload" data-src="uploads/blog/blog-post-2-thumb.png" src="uploads/blog/blog-post-2-thumb.png" alt="">
+                                </a>
+                                <div class="content">
+                                    <p class="text-btn-uppercase text-secondary-2 text-white">17 August</p>
+                                    <div>
+                                        <h4 class="title fw-5">
+                                            <a class="link text-white" href="./blog-post">
+                                                Essential Gaming Gear You Need to Enhance Your Setup and Dominate
+                                            </a>
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                         <div class="swiper-slide">
                             <div class="wg-blog style-abs hover-image wow fadeInUp" data-wow-delay="0s">
                                 <a href="./blog-post" class="image">
@@ -677,7 +665,9 @@ include_once("_header.php");
                             </div>
                         </div>
                     </div>
+
                     <div class="sw-pagination-partner sw-dots type-circle justify-content-center"></div>
+
                 </div>
             </div>
         </section>

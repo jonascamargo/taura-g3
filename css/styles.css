@@ -13424,6 +13424,11 @@ ul.list-text.type-number {
 .about-us-main .about-us-features {
   border-radius: 8px;
   overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 500px;
+  padding-bottom: 40px;
 }
 .about-us-main .about-us-features img {
   width: 100%;
@@ -17937,6 +17942,18 @@ ul.list-text.type-number {
 .sub-menu.mega-menu .container .row {
   gap: 40px 0;
 }
+
+.sobre-infoBox p:not(:last-child) {
+  padding-bottom: 20px;
+}
+
+#header .nav-icon .nav-icon-item {
+  font-size: 30px;
+}
+#header .nav-icon .nav-icon-item:hover {
+  color: red;
+}
+
 
 
 @keyframes slide-har-reverse {
